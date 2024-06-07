@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-07 | [`ccmaui.org`](https://google.com/search?q=ccmaui.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-07 | [`Talalay Global`](https://google.com/search?q=Talalay+Global) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-07 | [`Akdeniz Chemson`](https://google.com/search?q=Akdeniz+Chemson) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-07 | [`Reinhold Sign Servic e`](https://google.com/search?q=Reinhold+Sign+Servic+e) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-17 | [`http://www.visionmech.net`](https://google.com/search?q=http%3A%2F%2Fwww.visionmech.net) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-17 | [`Isaacs Odinocki`](https://google.com/search?q=Isaacs+Odinocki) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-05-17 | [`Gantan Beauty Industry`](https://google.com/search?q=Gantan+Beauty+Industry) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-05-17 | [`ABS-CBN Broadcasting`](https://google.com/search?q=ABS-CBN+Broadcasting) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
