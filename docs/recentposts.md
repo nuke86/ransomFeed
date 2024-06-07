@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-07 | [`fpr-us.com\$22.9M\USA\111GB\&lt;1% DISCLOSED`](https://google.com/search?q=fpr-us.com%5C%2422.9M%5CUSA%5C111GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-06 | [`Panasonic Australia`](https://google.com/search?q=Panasonic+Australia) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-06 | [`The Robson Companies`](https://google.com/search?q=The+Robson+Companies) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-06 | [`Elutia`](https://google.com/search?q=Elutia) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-16 | [`Insurance Agency Marketing Services`](https://google.com/search?q=Insurance+Agency+Marketing+Services) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2024-05-16 | [`utc-silverstone.co.uk`](https://google.com/search?q=utc-silverstone.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-16 | [`twpunionschools.org`](https://google.com/search?q=twpunionschools.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-16 | [`oseranhahn.com`](https://google.com/search?q=oseranhahn.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
