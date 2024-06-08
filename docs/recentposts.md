@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-08 | [`California Rice Exchange`](https://google.com/search?q=California+Rice+Exchange) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-06-08 | [`Jones`](https://google.com/search?q=Jones) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-07 | [`Elite Limousine Plus Inc`](https://google.com/search?q=Elite+Limousine+Plus+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-07 | [`GMJ and Co, Chartered Accountants`](https://google.com/search?q=GMJ+and+Co%2C+Chartered+Accountants) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-17 | [`orga-soft.de`](https://google.com/search?q=orga-soft.de) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-05-17 | [`www.belcherpharma.com`](https://google.com/search?q=www.belcherpharma.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-05-17 | [`valleyjoist.com`](https://google.com/search?q=valleyjoist.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-17 | [`Houston Waste Solutions <www.houstonwastesolutions.com>`](https://google.com/search?q=Houston+Waste+Solutions+%3Cwww.houstonwastesolutions.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
