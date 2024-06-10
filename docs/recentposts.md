@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-10 | [`ctsystem.com\$11.8M\Taiwan\93GB\&lt;1% DISCLOSED`](https://google.com/search?q=ctsystem.com%5C%2411.8M%5CTaiwan%5C93GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-10 | [`ctgbrands.com\$29.6M\Canada\327GB\&lt;1% DISCLOSED`](https://google.com/search?q=ctgbrands.com%5C%2429.6M%5CCanada%5C327GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-10 | [`transportlaberge.com\$27.8\Canada\110GB\&lt;1% DISCLOSED`](https://google.com/search?q=transportlaberge.com%5C%2427.8%5CCanada%5C110GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-10 | [`Arge Baustahl`](https://google.com/search?q=Arge+Baustahl) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-18 | [`Widdop & Co.`](https://google.com/search?q=Widdop+%26+Co.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-05-18 | [`https://catiglass.com`](https://google.com/search?q=https%3A%2F%2Fcatiglass.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-18 | [`Pittsburgh’s Trusted Orthopaedic Surgeons`](https://google.com/search?q=Pittsburgh%E2%80%99s+Trusted+Orthopaedic+Surgeons) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2024-05-18 | [`Mesopolys`](https://google.com/search?q=Mesopolys) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
