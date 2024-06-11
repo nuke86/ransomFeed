@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-11 | [`Zuber Gardner CPAs pt.2`](https://google.com/search?q=Zuber+Gardner+CPAs+pt.2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-11 | [`AlphaNovaCapital`](https://google.com/search?q=AlphaNovaCapital) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-06-11 | [`AMI Global Assistance`](https://google.com/search?q=AMI+Global+Assistance) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-06-11 | [`CentralSecurities.com`](https://google.com/search?q=CentralSecurities.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-20 | [`Berge Bulk`](https://google.com/search?q=Berge+Bulk) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-05-20 | [`ghimli.com\$189.1M\Australia\88GB\100%DISCLOSED`](https://google.com/search?q=ghimli.com%5C%24189.1M%5CAustralia%5C88GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-20 | [`scanda.com.mx\$23.6M\MEXICO\387GB\100%DISCLOSED`](https://google.com/search?q=scanda.com.mx%5C%2423.6M%5CMEXICO%5C387GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-05-20 | [`schuettemetals.com\$28.9M\USA\280GB\&lt;1%DISCLOSED`](https://google.com/search?q=schuettemetals.com%5C%2428.9M%5CUSA%5C280GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
