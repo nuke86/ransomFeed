@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-11 | [`Kutes.com`](https://google.com/search?q=Kutes.com) | [redransomware](https://ransomwatch.telemetry.ltd/#/profiles?id=redransomware) |
 | 2024-06-11 | [`apex.uk.net`](https://google.com/search?q=apex.uk.net) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-06-11 | [`Zuber Gardner CPAs pt.2`](https://google.com/search?q=Zuber+Gardner+CPAs+pt.2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-11 | [`AlphaNovaCapital`](https://google.com/search?q=AlphaNovaCapital) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-20 | [`fulcrum.pro\$2.1M\US\57GB\100%DISCLOSED`](https://google.com/search?q=fulcrum.pro%5C%242.1M%5CUS%5C57GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-20 | [`Jess-link Products`](https://google.com/search?q=Jess-link+Products) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-05-20 | [`Berge Bulk`](https://google.com/search?q=Berge+Bulk) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-05-20 | [`ghimli.com\$189.1M\Australia\88GB\100%DISCLOSED`](https://google.com/search?q=ghimli.com%5C%24189.1M%5CAustralia%5C88GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
