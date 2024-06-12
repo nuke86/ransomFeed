@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-12 | [`3GL Technology Solutions`](https://google.com/search?q=3GL+Technology+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-12 | [`ANTECH-GUTLING Gruppe`](https://google.com/search?q=ANTECH-GUTLING+Gruppe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-12 | [`manncorp.com`](https://google.com/search?q=manncorp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-12 | [`IPM Group (Multimedi a Information & Prod uction Company)`](https://google.com/search?q=IPM+Group+%28Multimedi+a+Information+%26+Prod+uction+Company%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-20 | [`Provencher_Roy`](https://google.com/search?q=Provencher_Roy) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-05-20 | [`Lactanet`](https://google.com/search?q=Lactanet) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-05-20 | [`Grupo Cadarso`](https://google.com/search?q=Grupo+Cadarso) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-05-20 | [`Atlas Oil`](https://google.com/search?q=Atlas+Oil) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
