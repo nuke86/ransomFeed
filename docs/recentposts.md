@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-13 | [`Goodman Reichwald-Dodge`](https://google.com/search?q=Goodman+Reichwald-Dodge) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-13 | [`Eagle Materials`](https://google.com/search?q=Eagle+Materials) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-13 | [`Chroma Color`](https://google.com/search?q=Chroma+Color) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-12 | [`Brainworks Software`](https://google.com/search?q=Brainworks+Software) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-21 | [`Matadero de Gijón - Biogas energy plant - mataderodegijon.es`](https://google.com/search?q=Matadero+de+Gij%C3%B3n+-+Biogas+energy+plant+-+mataderodegijon.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-21 | [`American Clinical Solutions(acslabtest.com)`](https://google.com/search?q=American+Clinical+Solutions%28acslabtest.com%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-21 | [`ORIUX: Experts in Mobility <www.oriux.com>`](https://google.com/search?q=ORIUX%3A+Experts+in+Mobility+%3Cwww.oriux.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-20 | [`Le Vian`](https://google.com/search?q=Le+Vian) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
