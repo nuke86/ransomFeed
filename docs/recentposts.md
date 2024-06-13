@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-13 | [`Shinnick & Ryan`](https://google.com/search?q=Shinnick+%26+Ryan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-13 | [`Seagulf Marine Industries`](https://google.com/search?q=Seagulf+Marine+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-13 | [`Peterbilt of Atlanta`](https://google.com/search?q=Peterbilt+of+Atlanta) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-13 | [`Great Lakes International Trading`](https://google.com/search?q=Great+Lakes+International+Trading) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-22 | [`Ardenbrook`](https://google.com/search?q=Ardenbrook) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-22 | [`Anchorage Daily News`](https://google.com/search?q=Anchorage+Daily+News) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-21 | [`Brittany Horne <brittanyhorne.com>`](https://google.com/search?q=Brittany+Horne+%3Cbrittanyhorne.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-21 | [`ALO diamonds`](https://google.com/search?q=ALO+diamonds) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
