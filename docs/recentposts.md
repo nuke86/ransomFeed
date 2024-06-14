@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-14 | [`Trisun Land Services`](https://google.com/search?q=Trisun+Land+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-14 | [`Zuber Gardner CPAs Data Leak`](https://google.com/search?q=Zuber+Gardner+CPAs+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-13 | [`Smartweb`](https://google.com/search?q=Smartweb) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-13 | [`Dordt University`](https://google.com/search?q=Dordt+University) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-22 | [`Starostwo Powiatowe w Świebodzinie`](https://google.com/search?q=Starostwo+Powiatowe+w+%C5%9Awiebodzinie) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-22 | [`Semicore Equipment`](https://google.com/search?q=Semicore+Equipment) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-22 | [`Ryder Scott Co.`](https://google.com/search?q=Ryder+Scott+Co.) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-22 | [`RDI-USA`](https://google.com/search?q=RDI-USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
