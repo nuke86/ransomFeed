@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-14 | [`ZeepLive`](https://google.com/search?q=ZeepLive) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-14 | [`Concrete`](https://google.com/search?q=Concrete) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-06-14 | [`https://eurotrol.com/en/`](https://google.com/search?q=https%3A%2F%2Feurotrol.com%2Fen%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-14 | [`Western Mechanical`](https://google.com/search?q=Western+Mechanical) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-22 | [`Newman Ferrara`](https://google.com/search?q=Newman+Ferrara) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-22 | [`Visa Lighting`](https://google.com/search?q=Visa+Lighting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-22 | [`Tri-state General Contractors`](https://google.com/search?q=Tri-state+General+Contractors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-22 | [`The Louis G Freeman`](https://google.com/search?q=The+Louis+G+Freeman) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
