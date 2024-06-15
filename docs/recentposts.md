@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-15 | [`EnviroApplications`](https://google.com/search?q=EnviroApplications) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-06-15 | [`Embotits Espina, SLU`](https://google.com/search?q=Embotits+Espina%2C+SLU) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-06-15 | [`Legrand CRM`](https://google.com/search?q=Legrand+CRM) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-06-15 | [`InVogue Women Healthcare, PLLC (USA,TX)`](https://google.com/search?q=InVogue+Women+Healthcare%2C+PLLC+%28USA%2CTX%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-23 | [`United Urology Group`](https://google.com/search?q=United+Urology+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-05-23 | [`ThrottleUp <throttleup.io>`](https://google.com/search?q=ThrottleUp+%3Cthrottleup.io%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-23 | [`iseta.fr (institut des Sciences de l'Environnement et des Territoires d'Annecy)`](https://google.com/search?q=iseta.fr+%28institut+des+Sciences+de+l%27Environnement+et+des+Territoires+d%27Annecy%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-23 | [`MAH Machine`](https://google.com/search?q=MAH+Machine) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
