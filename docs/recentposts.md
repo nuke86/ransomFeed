@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-16 | [`Bock &amp; Associates, LLP`](https://google.com/search?q=Bock+%26amp%3B+Associates%2C+LLP) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-06-16 | [`hydefuel.com `](https://google.com/search?q=hydefuel.com+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-06-15 | [`svmasonry.com`](https://google.com/search?q=svmasonry.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-06-15 | [`EnviroApplications`](https://google.com/search?q=EnviroApplications) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-23 | [`carcajou.fr`](https://google.com/search?q=carcajou.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-23 | [`shamrocktradingcorp.com`](https://google.com/search?q=shamrocktradingcorp.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-05-23 | [`brightwayconsultants.co.uk`](https://google.com/search?q=brightwayconsultants.co.uk) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
-| 2024-05-23 | [`United Urology Group`](https://google.com/search?q=United+Urology+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
