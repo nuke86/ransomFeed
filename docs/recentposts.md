@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-17 | [`Amper Radio`](https://google.com/search?q=Amper+Radio) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-17 | [`Modplan`](https://google.com/search?q=Modplan) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-17 | [`Wielton S.A.`](https://google.com/search?q=Wielton+S.A.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-17 | [`cosimti.com`](https://google.com/search?q=cosimti.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-24 | [`Colégio Nova Dimensão`](https://google.com/search?q=Col%C3%A9gio+Nova+Dimens%C3%A3o) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-05-24 | [`Pediatric Urology Associates`](https://google.com/search?q=Pediatric+Urology+Associates) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-05-24 | [`The Blake Law Firm`](https://google.com/search?q=The+Blake+Law+Firm) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
-| 2024-05-24 | [`United Equitable Group`](https://google.com/search?q=United+Equitable+Group) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
