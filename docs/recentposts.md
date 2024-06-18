@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-18 | [`sky-light.com\$26.4M\Denmark\50GB\&lt;1% DISCLOSED`](https://google.com/search?q=sky-light.com%5C%2426.4M%5CDenmark%5C50GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-18 | [`malca-amit.com`](https://google.com/search?q=malca-amit.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-06-18 | [`reawire.com\$100M\USA\100GB\&lt;1% DISCLOSED`](https://google.com/search?q=reawire.com%5C%24100M%5CUSA%5C100GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-18 | [`http://www.kckpd.org`](https://google.com/search?q=http%3A%2F%2Fwww.kckpd.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-24 | [`Braz Assessoria Contábil`](https://google.com/search?q=Braz+Assessoria+Cont%C3%A1bil) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-05-24 | [`Thibabem Atacadista`](https://google.com/search?q=Thibabem+Atacadista) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-05-24 | [`FILSCAP`](https://google.com/search?q=FILSCAP) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-05-24 | [`Cusat`](https://google.com/search?q=Cusat) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
