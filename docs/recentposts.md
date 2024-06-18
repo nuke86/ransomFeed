@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-18 | [`TETRA Technologies,  Inc.`](https://google.com/search?q=TETRA+Technologies%2C++Inc.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-18 | [`Kinter`](https://google.com/search?q=Kinter) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-18 | [`Virum Apotek`](https://google.com/search?q=Virum+Apotek) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-06-17 | [`MGF`](https://google.com/search?q=MGF) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-24 | [`Frigrífico Boa Carne`](https://google.com/search?q=Frigr%C3%ADfico+Boa+Carne) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-05-24 | [`GOLD RH S.A.S`](https://google.com/search?q=GOLD+RH+S.A.S) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-05-24 | [`Grupo SASMET`](https://google.com/search?q=Grupo+SASMET) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-05-24 | [`RIO TECHNOLOGY`](https://google.com/search?q=RIO+TECHNOLOGY) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
