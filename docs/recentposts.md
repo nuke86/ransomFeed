@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-18 | [`A-Line Staffing Solutions`](https://google.com/search?q=A-Line+Staffing+Solutions) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-06-18 | [`journohq.com`](https://google.com/search?q=journohq.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-18 | [`Acteon Group`](https://google.com/search?q=Acteon+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-06-18 | [`sofidel.com\$3B\Italy\74GB\&lt;1% DISCLOSED`](https://google.com/search?q=sofidel.com%5C%243B%5CItaly%5C74GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-26 | [`Aéroport de Pau`](https://google.com/search?q=A%C3%A9roport+de+Pau) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-05-24 | [`https://www.ipsotek.com/`](https://google.com/search?q=https%3A%2F%2Fwww.ipsotek.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-24 | [`Vannguard Utility Pa rtners`](https://google.com/search?q=Vannguard+Utility+Pa+rtners) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-05-24 | [`BRAZIL GOV`](https://google.com/search?q=BRAZIL+GOV) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
