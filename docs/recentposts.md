@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-19 | [`Lindermayr`](https://google.com/search?q=Lindermayr) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-19 | [`Perfumes & Companhia`](https://google.com/search?q=Perfumes+%26+Companhia) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-19 | [`First Baptist Medical Center`](https://google.com/search?q=First+Baptist+Medical+Center) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2024-06-19 | [`Seoyon E-Hwa`](https://google.com/search?q=Seoyon+E-Hwa) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-26 | [`Johnston`](https://google.com/search?q=Johnston) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-26 | [`National Publisher Services LLC`](https://google.com/search?q=National+Publisher+Services+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-26 | [`Payne and Jones`](https://google.com/search?q=Payne+and+Jones) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-05-26 | [`Wind Composite Services Group, LLC`](https://google.com/search?q=Wind+Composite+Services+Group%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
