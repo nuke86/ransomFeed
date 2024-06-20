@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-20 | [`GED Lawyers &amp; ..`](https://google.com/search?q=GED+Lawyers+%26amp%3B+..) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-20 | [`SAWA INTERNATIONAL`](https://google.com/search?q=SAWA+INTERNATIONAL) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-06-20 | [`Gokals  Consumer Electronics &amp; Computers Retail · Fiji`](https://google.com/search?q=Gokals++Consumer+Electronics+%26amp%3B+Computers+Retail+%C2%B7+Fiji) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-06-20 | [`Ojai srl`](https://google.com/search?q=Ojai+srl) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-27 | [`kns.com`](https://google.com/search?q=kns.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-27 | [`kharafiglobal.com`](https://google.com/search?q=kharafiglobal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-27 | [`highwaystrust.com`](https://google.com/search?q=highwaystrust.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-27 | [`cafesnovell.com`](https://google.com/search?q=cafesnovell.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
