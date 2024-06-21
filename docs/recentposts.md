@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-21 | [`1234.com`](https://google.com/search?q=1234.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-20 | [`Exhaustpro shops`](https://google.com/search?q=Exhaustpro+shops) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-20 | [`BankSelfStorage`](https://google.com/search?q=BankSelfStorage) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-20 | [`GED Lawyers &amp; ..`](https://google.com/search?q=GED+Lawyers+%26amp%3B+..) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-27 | [`multigroup.info`](https://google.com/search?q=multigroup.info) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-27 | [`mgops.sedziszow-mlp.pl`](https://google.com/search?q=mgops.sedziszow-mlp.pl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-27 | [`longviewoms.com`](https://google.com/search?q=longviewoms.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-27 | [`kns.com`](https://google.com/search?q=kns.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
