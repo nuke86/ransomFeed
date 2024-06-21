@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-21 | [`LCS and Partners`](https://google.com/search?q=LCS+and+Partners) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-06-21 | [`Hokushinko Co., Ltd.`](https://google.com/search?q=Hokushinko+Co.%2C+Ltd.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-06-21 | [`12345.com`](https://google.com/search?q=12345.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-21 | [`1234.com`](https://google.com/search?q=1234.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-27 | [`sysroad.com`](https://google.com/search?q=sysroad.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-27 | [`sunpetro.com`](https://google.com/search?q=sunpetro.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-27 | [`pressurejet.com`](https://google.com/search?q=pressurejet.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-27 | [`multigroup.info`](https://google.com/search?q=multigroup.info) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
