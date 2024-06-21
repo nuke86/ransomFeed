@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-21 | [`Maxillofacial Surgery`](https://google.com/search?q=Maxillofacial+Surgery) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-21 | [`MEL aviation Ltd`](https://google.com/search?q=MEL+aviation+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-21 | [`Topserve Service Solutions`](https://google.com/search?q=Topserve+Service+Solutions) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-06-21 | [`Taiyo Kogyo Co., Ltd.`](https://google.com/search?q=Taiyo+Kogyo+Co.%2C+Ltd.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-27 | [`Natsume Tax Accountant Corporation`](https://google.com/search?q=Natsume+Tax+Accountant+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-27 | [`Matusima`](https://google.com/search?q=Matusima) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-27 | [`Architecture LEJEUNE GIOVANELLI`](https://google.com/search?q=Architecture+LEJEUNE+GIOVANELLI) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-05-27 | [`Hytera US Inc`](https://google.com/search?q=Hytera+US+Inc) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
