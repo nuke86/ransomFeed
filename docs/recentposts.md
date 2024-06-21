@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-21 | [`Taiyo Kogyo Co., Ltd.`](https://google.com/search?q=Taiyo+Kogyo+Co.%2C+Ltd.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-06-21 | [`TC Capital Asia Limited`](https://google.com/search?q=TC+Capital+Asia+Limited) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-06-21 | [`LCS and Partners`](https://google.com/search?q=LCS+and+Partners) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-06-21 | [`Hokushinko Co., Ltd.`](https://google.com/search?q=Hokushinko+Co.%2C+Ltd.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-27 | [`Hytera US Inc`](https://google.com/search?q=Hytera+US+Inc) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-05-27 | [`workscapes.com`](https://google.com/search?q=workscapes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-27 | [`sysroad.com`](https://google.com/search?q=sysroad.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-27 | [`sunpetro.com`](https://google.com/search?q=sunpetro.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
