@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-22 | [`City of Newburgh`](https://google.com/search?q=City+of+Newburgh) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2024-06-22 | [`Erivan Gecom Inc`](https://google.com/search?q=Erivan+Gecom+Inc) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-06-22 | [`D*****S`](https://google.com/search?q=D%2A%2A%2A%2A%2AS) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-06-22 | [`Rotor Team`](https://google.com/search?q=Rotor+Team) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-28 | [`Arrabawn Co-op`](https://google.com/search?q=Arrabawn+Co-op) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-05-28 | [`OTR`](https://google.com/search?q=OTR) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-28 | [`Avelina`](https://google.com/search?q=Avelina) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-05-28 | [`Brett Slater Solicit ors`](https://google.com/search?q=Brett+Slater+Solicit+ors) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
