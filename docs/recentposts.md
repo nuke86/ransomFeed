@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-22 | [`Rotor Team`](https://google.com/search?q=Rotor+Team) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-06-22 | [`sanyo-shokai.co.jp\$412.6M\Japan\248GB\100% DISCLOSED`](https://google.com/search?q=sanyo-shokai.co.jp%5C%24412.6M%5CJapan%5C248GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-22 | [`Heli Securite`](https://google.com/search?q=Heli+Securite) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-06-22 | [`BLADE`](https://google.com/search?q=BLADE) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-28 | [`Brett Slater Solicit ors`](https://google.com/search?q=Brett+Slater+Solicit+ors) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-27 | [`The Kelly Group`](https://google.com/search?q=The+Kelly+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-27 | [`Shirasaki`](https://google.com/search?q=Shirasaki) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-05-27 | [`S L B TRANSIT INC`](https://google.com/search?q=S+L+B+TRANSIT+INC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
