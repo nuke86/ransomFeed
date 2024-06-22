@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-22 | [`BLADE`](https://google.com/search?q=BLADE) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-06-21 | [`oexpress.id`](https://google.com/search?q=oexpress.id) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-21 | [`Maxillofacial Surgery`](https://google.com/search?q=Maxillofacial+Surgery) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-21 | [`MEL aviation Ltd`](https://google.com/search?q=MEL+aviation+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-27 | [`S L B TRANSIT INC`](https://google.com/search?q=S+L+B+TRANSIT+INC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-27 | [`Osaka Motorcycle Business Cooperative`](https://google.com/search?q=Osaka+Motorcycle+Business+Cooperative) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-27 | [`Natsume Tax Accountant Corporation`](https://google.com/search?q=Natsume+Tax+Accountant+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-05-27 | [`Matusima`](https://google.com/search?q=Matusima) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
