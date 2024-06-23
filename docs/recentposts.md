@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-23 | [`12341.com`](https://google.com/search?q=12341.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-23 | [`1144.com`](https://google.com/search?q=1144.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-23 | [`Next Step Healthcare`](https://google.com/search?q=Next+Step+Healthcare) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-06-23 | [`Synnovis`](https://google.com/search?q=Synnovis) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-29 | [`Credit Central`](https://google.com/search?q=Credit+Central) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-29 | [`Western Dovetail`](https://google.com/search?q=Western+Dovetail) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-29 | [`Aircod.com`](https://google.com/search?q=Aircod.com) | [redransomware](https://ransomwatch.telemetry.ltd/#/profiles?id=redransomware) |
-| 2024-05-29 | [`mcmtelecom.com`](https://google.com/search?q=mcmtelecom.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
