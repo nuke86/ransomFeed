@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-23 | [`marvell.com`](https://google.com/search?q=marvell.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-23 | [`at-global.com`](https://google.com/search?q=at-global.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-23 | [`12341.com`](https://google.com/search?q=12341.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-23 | [`1144.com`](https://google.com/search?q=1144.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-29 | [`FPL Food`](https://google.com/search?q=FPL+Food) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-29 | [`Elmhurst Group`](https://google.com/search?q=Elmhurst+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-29 | [`Credit Central`](https://google.com/search?q=Credit+Central) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-29 | [`Western Dovetail`](https://google.com/search?q=Western+Dovetail) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
