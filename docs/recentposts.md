@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-23 | [`Synnovis`](https://google.com/search?q=Synnovis) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-06-23 | [`Wise Construction`](https://google.com/search?q=Wise+Construction) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-06-23 | [`1133.com`](https://google.com/search?q=1133.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-23 | [`1122.com`](https://google.com/search?q=1122.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-29 | [`mcmtelecom.com`](https://google.com/search?q=mcmtelecom.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2024-05-29 | [`Assist Informatica`](https://google.com/search?q=Assist+Informatica) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2024-05-29 | [`alliedtelesis.com`](https://google.com/search?q=alliedtelesis.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-28 | [`Manuchar`](https://google.com/search?q=Manuchar) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
