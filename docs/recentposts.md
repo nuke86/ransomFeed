@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-24 | [`Ashtons Legal LLP`](https://google.com/search?q=Ashtons+Legal+LLP) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-06-24 | [`federalreserve.gov`](https://google.com/search?q=federalreserve.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-23 | [`kinslerfamilydentistry `](https://google.com/search?q=kinslerfamilydentistry+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-06-23 | [`St Vincent de Paul Catholic School`](https://google.com/search?q=St+Vincent+de+Paul+Catholic+School) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-30 | [`Excel Security Corp.`](https://google.com/search?q=Excel+Security+Corp.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-30 | [`MagicLand`](https://google.com/search?q=MagicLand) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-30 | [`heras.co.uk`](https://google.com/search?q=heras.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-29 | [`WALSER AUTOMOTIVE GROUP`](https://google.com/search?q=WALSER+AUTOMOTIVE+GROUP) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
