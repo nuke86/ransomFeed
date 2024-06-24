@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-24 | [`Custom Concrete`](https://google.com/search?q=Custom+Concrete) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-24 | [`Bunger Steel`](https://google.com/search?q=Bunger+Steel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-24 | [`Belle Tire`](https://google.com/search?q=Belle+Tire) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-24 | [`prinsotel.com `](https://google.com/search?q=prinsotel.com+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-30 | [`Bjurholms kommun<www.bjurholm.se>`](https://google.com/search?q=Bjurholms+kommun%3Cwww.bjurholm.se%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-30 | [`SIAED.it - HOSTER/DEV FOR ITALY BIGGEST BANKS`](https://google.com/search?q=SIAED.it+-+HOSTER%2FDEV+FOR+ITALY+BIGGEST+BANKS) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-30 | [`Christies Auction House - christies.com`](https://google.com/search?q=Christies+Auction+House+-+christies.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-30 | [`Faultless Brands`](https://google.com/search?q=Faultless+Brands) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
