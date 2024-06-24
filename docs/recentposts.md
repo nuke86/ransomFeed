@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-24 | [`Harvey Construction`](https://google.com/search?q=Harvey+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-24 | [`Compagnia Trasporti Integrati S.R.L`](https://google.com/search?q=Compagnia+Trasporti+Integrati+S.R.L) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-06-24 | [`VTWin.ca`](https://google.com/search?q=VTWin.ca) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-06-24 | [`Custom Concrete`](https://google.com/search?q=Custom+Concrete) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-30 | [`Christies Auction House - christies.com<Auction>`](https://google.com/search?q=Christies+Auction+House+-+christies.com%3CAuction%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-30 | [`American Clinical Solutions(acslabtest.com)auctioning`](https://google.com/search?q=American+Clinical+Solutions%28acslabtest.com%29auctioning) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-30 | [`PSG BANATSKI DVOR D.O.O. NOVI SAD (SERBIA)`](https://google.com/search?q=PSG+BANATSKI+DVOR+D.O.O.+NOVI+SAD+%28SERBIA%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-30 | [`Bjurholms kommun<www.bjurholm.se>`](https://google.com/search?q=Bjurholms+kommun%3Cwww.bjurholm.se%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
