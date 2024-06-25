@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-25 | [`Key Benefit Administrators, Inc.`](https://google.com/search?q=Key+Benefit+Administrators%2C+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-25 | [`Scrubs &amp; Beyond`](https://google.com/search?q=Scrubs+%26amp%3B+Beyond) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-25 | [`Utility Datacenter`](https://google.com/search?q=Utility+Datacenter) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-25 | [`tpocc.org`](https://google.com/search?q=tpocc.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-02 | [`Ayoub &#038; associates CPA Firm Data Leak`](https://google.com/search?q=Ayoub+%26%23038%3B+associates+CPA+Firm+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-01 | [`powertestdyno.com`](https://google.com/search?q=powertestdyno.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-31 | [`dollmar.com\$28.3M\Italy\127GB\&lt;1% DISCLOSED`](https://google.com/search?q=dollmar.com%5C%2428.3M%5CItaly%5C127GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-05-31 | [`familyguardian.com\$51.7M\Bahamas\1.5TB\&lt;1% DISCLOSED`](https://google.com/search?q=familyguardian.com%5C%2451.7M%5CBahamas%5C1.5TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
