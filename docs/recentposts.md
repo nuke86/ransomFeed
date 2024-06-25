@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-25 | [`World inquest`](https://google.com/search?q=World+inquest) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-25 | [`TPI`](https://google.com/search?q=TPI) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-25 | [`RRCA Accounts Management`](https://google.com/search?q=RRCA+Accounts+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-25 | [`ProMotion Holdings`](https://google.com/search?q=ProMotion+Holdings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-31 | [`espackeuro.com\$17.3M\Spain\11GB\&lt;1% DISCLOSED`](https://google.com/search?q=espackeuro.com%5C%2417.3M%5CSpain%5C11GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-31 | [`TriLiteral`](https://google.com/search?q=TriLiteral) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-31 | [`New Hampshire Public Radio`](https://google.com/search?q=New+Hampshire+Public+Radio) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-05-31 | [`Keytronic`](https://google.com/search?q=Keytronic) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
