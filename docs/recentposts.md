@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-26 | [`Agron (Five Ten) Adi das TERREX`](https://google.com/search?q=Agron+%28Five+Ten%29+Adi+das+TERREX) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-26 | [`PCI Developments`](https://google.com/search?q=PCI+Developments) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-26 | [`Beckett Thermal Solu tions`](https://google.com/search?q=Beckett+Thermal+Solu+tions) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-26 | [`US Dermatology Partners`](https://google.com/search?q=US+Dermatology+Partners) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-04 | [`Immediate Transport &#8211; UK`](https://google.com/search?q=Immediate+Transport+%26%238211%3B+UK) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-03 | [`Anderson Mikos Archi tects`](https://google.com/search?q=Anderson+Mikos+Archi+tects) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-03 | [`Nidec Motor Corporation`](https://google.com/search?q=Nidec+Motor+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-06-03 | [`ISETO CORPORATION`](https://google.com/search?q=ISETO+CORPORATION) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
