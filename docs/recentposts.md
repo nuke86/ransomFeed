@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-26 | [`Beckett Thermal Solu tions`](https://google.com/search?q=Beckett+Thermal+Solu+tions) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-26 | [`US Dermatology Partners`](https://google.com/search?q=US+Dermatology+Partners) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-26 | [`Better Business Bureau`](https://google.com/search?q=Better+Business+Bureau) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-25 | [`Key Benefit Administrators, Inc.`](https://google.com/search?q=Key+Benefit+Administrators%2C+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-03 | [`Nidec Motor Corporation`](https://google.com/search?q=Nidec+Motor+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-06-03 | [`ISETO CORPORATION`](https://google.com/search?q=ISETO+CORPORATION) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-06-02 | [`Wealth Depot LLC Data Leak`](https://google.com/search?q=Wealth+Depot+LLC+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-06-02 | [`Ayoub &#038; associates CPA Firm Data Leak`](https://google.com/search?q=Ayoub+%26%23038%3B+associates+CPA+Firm+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
