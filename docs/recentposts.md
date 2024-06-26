@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-26 | [`Gallos Metal Solutio ns`](https://google.com/search?q=Gallos+Metal+Solutio+ns) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-26 | [`Cukierski &#038; Associates, LLC Data Leak`](https://google.com/search?q=Cukierski+%26%23038%3B+Associates%2C+LLC+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-26 | [`https://www.axiavg.com/`](https://google.com/search?q=https%3A%2F%2Fwww.axiavg.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-26 | [`https://www.catiglass.com/`](https://google.com/search?q=https%3A%2F%2Fwww.catiglass.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-04 | [`Franja IT Integradores de Tecnología`](https://google.com/search?q=Franja+IT+Integradores+de+Tecnolog%C3%ADa) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-04 | [`Duque Saldarriaga`](https://google.com/search?q=Duque+Saldarriaga) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-04 | [`BHMAC`](https://google.com/search?q=BHMAC) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-06-04 | [`Botselo`](https://google.com/search?q=Botselo) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
