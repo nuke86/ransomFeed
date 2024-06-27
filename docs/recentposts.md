@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-27 | [`https://www.colfax.k12.wi.us/`](https://google.com/search?q=https%3A%2F%2Fwww.colfax.k12.wi.us%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-27 | [`Waterbury Newton`](https://google.com/search?q=Waterbury+Newton) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-26 | [`Ocasa`](https://google.com/search?q=Ocasa) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-26 | [`competenz.co.nz`](https://google.com/search?q=competenz.co.nz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-04 | [`Northern Minerals Limited`](https://google.com/search?q=Northern+Minerals+Limited) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-04 | [`smithandcaugheys.co.nz`](https://google.com/search?q=smithandcaugheys.co.nz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-04 | [`cfymca.org`](https://google.com/search?q=cfymca.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-06-04 | [`Langescheid GbR`](https://google.com/search?q=Langescheid+GbR) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
