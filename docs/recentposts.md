@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-28 | [`fbttransport.com\$70.8M\USA\180GB\&lt;1% DISCLOSED`](https://google.com/search?q=fbttransport.com%5C%2470.8M%5CUSA%5C180GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-28 | [`daystar.com\$120.3M\USA\125GB\&lt;1% DISCLOSED`](https://google.com/search?q=daystar.com%5C%24120.3M%5CUSA%5C125GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-28 | [`hydmech.com\$47.2M\Canada\980GB\&lt;1% DISCLOSED`](https://google.com/search?q=hydmech.com%5C%2447.2M%5CCanada%5C980GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-27 | [`http://kadokawa.co.jp`](https://google.com/search?q=http%3A%2F%2Fkadokawa.co.jp) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-06 | [`SSI Shredding Systems, Inc.`](https://google.com/search?q=SSI+Shredding+Systems%2C+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-06 | [`Driver Group`](https://google.com/search?q=Driver+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-06 | [`Río Negro`](https://google.com/search?q=R%C3%ADo+Negro) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2024-06-06 | [`Madata Data Collection &amp; Internet Portals`](https://google.com/search?q=Madata+Data+Collection+%26amp%3B+Internet+Portals) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
