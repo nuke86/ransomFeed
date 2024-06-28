@@ -6,15 +6,15 @@ ransomwatch is currently crawling `384` sites belonging to `193` unique groups
 
 ⏲ there have been `13` posts within the `last 24 hours`
 
-🦈 there have been `231` posts within the `month of june`
+🦈 there have been `232` posts within the `month of june`
 
 🪐 there have been `1093` posts within the `last 90 days`
 
-🏚 there have been `2373` posts within the `year of 2024`
+🏚 there have been `2374` posts within the `year of 2024`
 
-_⚙️ there are currently `100` online hosts & `122` custom parsers._
+_⚙️ there are currently `104` online hosts & `122` custom parsers._
 
-🦕 ransomwatch has been running for `2 years, 9 months and 23 days` and indexed `11830` posts
+🦕 ransomwatch has been running for `2 years, 9 months and 23 days` and indexed `11831` posts
 
 _all data  [(groups)](http://ransomwhat.telemetry.ltd/groups) and [(posts)](http://ransomwhat.telemetry.ltd/posts) is available in JSON (updated hourly)_
 

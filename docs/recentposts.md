@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-28 | [`Wilmots (Legal servi ces)`](https://google.com/search?q=Wilmots+%28Legal+servi+ces%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-28 | [`ASI`](https://google.com/search?q=ASI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-28 | [`Power Lube Industria l`](https://google.com/search?q=Power+Lube+Industria+l) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-28 | [`www.glynmarais.co.za\$12.6M\South Africa\105GB\&lt;1% DISCLOSED`](https://google.com/search?q=www.glynmarais.co.za%5C%2412.6M%5CSouth+Africa%5C105GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-07 | [`Axip Energy Services`](https://google.com/search?q=Axip+Energy+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-06-07 | [`RAVEN Mechanical`](https://google.com/search?q=RAVEN+Mechanical) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-06-07 | [`dollmar.com\$28.3M\Italy\127GB\100% DISCLOSED`](https://google.com/search?q=dollmar.com%5C%2428.3M%5CItaly%5C127GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-06-07 | [`fpr-us.com\$22.9M\USA\111GB\&lt;1% DISCLOSED`](https://google.com/search?q=fpr-us.com%5C%2422.9M%5CUSA%5C111GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
