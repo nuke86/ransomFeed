@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-28 | [`buyeazzy.com`](https://google.com/search?q=buyeazzy.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-28 | [`millimages.com\$12.6M\France\147GB\&lt;1% DISCLOSED`](https://google.com/search?q=millimages.com%5C%2412.6M%5CFrance%5C147GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-28 | [`Wilmots (Legal servi ces)`](https://google.com/search?q=Wilmots+%28Legal+servi+ces%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-28 | [`ASI`](https://google.com/search?q=ASI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-07 | [`dmedelivers.com`](https://google.com/search?q=dmedelivers.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-06-07 | [`Dynasafe`](https://google.com/search?q=Dynasafe) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-07 | [`Axip Energy Services`](https://google.com/search?q=Axip+Energy+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-06-07 | [`RAVEN Mechanical`](https://google.com/search?q=RAVEN+Mechanical) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
