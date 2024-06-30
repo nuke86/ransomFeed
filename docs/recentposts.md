@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-30 | [`Wayne Memorial Hospital`](https://google.com/search?q=Wayne+Memorial+Hospital) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-06-30 | [`Lambertz`](https://google.com/search?q=Lambertz) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-30 | [`Clima Lodi`](https://google.com/search?q=Clima+Lodi) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-30 | [`jla.com`](https://google.com/search?q=jla.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-10 | [`jmthompson.com\$17.9M\USA\331GB\&lt;1% DISCLOSED`](https://google.com/search?q=jmthompson.com%5C%2417.9M%5CUSA%5C331GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-10 | [`ctsystem.com\$11.8M\Taiwan\93GB\&lt;1% DISCLOSED`](https://google.com/search?q=ctsystem.com%5C%2411.8M%5CTaiwan%5C93GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-10 | [`ctgbrands.com\$29.6M\Canada\327GB\&lt;1% DISCLOSED`](https://google.com/search?q=ctgbrands.com%5C%2429.6M%5CCanada%5C327GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-06-10 | [`transportlaberge.com\$27.8\Canada\110GB\&lt;1% DISCLOSED`](https://google.com/search?q=transportlaberge.com%5C%2427.8%5CCanada%5C110GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
