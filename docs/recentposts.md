@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-01 | [`Ethypharm`](https://google.com/search?q=Ethypharm) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-07-01 | [`SYNERGY PEANUT`](https://google.com/search?q=SYNERGY+PEANUT) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-01 | [`maxcess-logistics.com`](https://google.com/search?q=maxcess-logistics.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-07-01 | [`Bartlett & Weigle Co. LPA.`](https://google.com/search?q=Bartlett+%26+Weigle+Co.+LPA.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-11 | [`https://www.specialhealth.org/`](https://google.com/search?q=https%3A%2F%2Fwww.specialhealth.org%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-11 | [`wave2.co.kr`](https://google.com/search?q=wave2.co.kr) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-11 | [`nordspace.lt`](https://google.com/search?q=nordspace.lt) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-06-11 | [`Harper Industries`](https://google.com/search?q=Harper+Industries) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
