@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-01 | [`maxcess-logistics.com`](https://google.com/search?q=maxcess-logistics.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-07-01 | [`Bartlett & Weigle Co. LPA.`](https://google.com/search?q=Bartlett+%26+Weigle+Co.+LPA.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-06-30 | [`Wayne Memorial Hospital`](https://google.com/search?q=Wayne+Memorial+Hospital) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-06-30 | [`Lambertz`](https://google.com/search?q=Lambertz) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-11 | [`nordspace.lt`](https://google.com/search?q=nordspace.lt) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-11 | [`Harper Industries`](https://google.com/search?q=Harper+Industries) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-06-10 | [`jmthompson.com\$17.9M\USA\331GB\&lt;1% DISCLOSED`](https://google.com/search?q=jmthompson.com%5C%2417.9M%5CUSA%5C331GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-06-10 | [`ctsystem.com\$11.8M\Taiwan\93GB\&lt;1% DISCLOSED`](https://google.com/search?q=ctsystem.com%5C%2411.8M%5CTaiwan%5C93GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
