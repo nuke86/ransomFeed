@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-08 | [`designintoto.com.au`](https://google.com/search?q=designintoto.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-08 | [`customssupport.be`](https://google.com/search?q=customssupport.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-08 | [`concorddirect.com`](https://google.com/search?q=concorddirect.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-08 | [`clinicatezza.com.pe`](https://google.com/search?q=clinicatezza.com.pe) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-19 | [`Vidisco Hacked`](https://google.com/search?q=Vidisco+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-09-19 | [`IIB ( Israeli Industrial Batteries ) Hacked`](https://google.com/search?q=IIB+%28+Israeli+Industrial+Batteries+%29+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-09-18 | [`Plaisted Companies`](https://google.com/search?q=Plaisted+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-18 | [`Bertelkamp Automation `](https://google.com/search?q=Bertelkamp+Automation+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
