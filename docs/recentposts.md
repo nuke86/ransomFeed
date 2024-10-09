@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-09 | [`Universite Paris Sud`](https://google.com/search?q=Universite+Paris+Sud) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-10-09 | [`emanic.net`](https://google.com/search?q=emanic.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-09 | [`efile.com`](https://google.com/search?q=efile.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-09 | [`eastern-sales.com`](https://google.com/search?q=eastern-sales.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-20 | [`avl1.com`](https://google.com/search?q=avl1.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-19 | [`advbe.com`](https://google.com/search?q=advbe.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-19 | [`rarholding.com`](https://google.com/search?q=rarholding.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-19 | [`agricola `](https://google.com/search?q=agricola+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
