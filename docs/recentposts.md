@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-09 | [`e21c.co.uk`](https://google.com/search?q=e21c.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-08 | [`dowley.com`](https://google.com/search?q=dowley.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-08 | [`dmmerch.com`](https://google.com/search?q=dmmerch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-08 | [`divaris.com`](https://google.com/search?q=divaris.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-19 | [`libertyfirstcu.com`](https://google.com/search?q=libertyfirstcu.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-19 | [`Hunter Dickinson Inc.`](https://google.com/search?q=Hunter+Dickinson+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-19 | [`tims.com`](https://google.com/search?q=tims.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-09-19 | [`Handala&#8217;s statement`](https://google.com/search?q=Handala%26%238217%3Bs+statement) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
