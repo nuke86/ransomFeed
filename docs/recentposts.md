@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-10 | [`inces.com`](https://google.com/search?q=inces.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-10 | [`ignitarium.com`](https://google.com/search?q=ignitarium.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-10 | [`huntongroup.com`](https://google.com/search?q=huntongroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-10 | [`hphood.com`](https://google.com/search?q=hphood.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-22 | [`Woodard , Hernandez , Roth &amp; Day`](https://google.com/search?q=Woodard+%2C+Hernandez+%2C+Roth+%26amp%3B+Day) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-21 | [`savannahcandy.com`](https://google.com/search?q=savannahcandy.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-21 | [`Acho.io`](https://google.com/search?q=Acho.io) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-21 | [`Juice Generation`](https://google.com/search?q=Juice+Generation) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
