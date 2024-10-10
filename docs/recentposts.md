@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-10 | [`gbricambi.it`](https://google.com/search?q=gbricambi.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-10 | [`frilot.com`](https://google.com/search?q=frilot.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-09 | [`fremontschools.net`](https://google.com/search?q=fremontschools.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-09 | [`fivestarproducts.com`](https://google.com/search?q=fivestarproducts.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-21 | [`Messe C`](https://google.com/search?q=Messe+C) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-20 | [`Jackson Paper Manufacturing`](https://google.com/search?q=Jackson+Paper+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-20 | [`Mason City Recycling Center`](https://google.com/search?q=Mason+City+Recycling+Center) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-09-20 | [`KW Realty Group`](https://google.com/search?q=KW+Realty+Group) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
