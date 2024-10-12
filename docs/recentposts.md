@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-12 | [`norton.k12.ma.us`](https://google.com/search?q=norton.k12.ma.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-12 | [`nicholsfleet.com`](https://google.com/search?q=nicholsfleet.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-12 | [`nhbg.com.co`](https://google.com/search?q=nhbg.com.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-12 | [`nfcaa.org`](https://google.com/search?q=nfcaa.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-24 | [`Partners Air`](https://google.com/search?q=Partners+Air) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-09-24 | [`https://cottlesinc.com`](https://google.com/search?q=https%3A%2F%2Fcottlesinc.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-09-24 | [`Solutii Sistemas`](https://google.com/search?q=Solutii+Sistemas) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-09-24 | [`Nova Sinseg`](https://google.com/search?q=Nova+Sinseg) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
