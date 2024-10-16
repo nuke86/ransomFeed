@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-16 | [`Kuhn and Associates`](https://google.com/search?q=Kuhn+and+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-16 | [`CETRULO`](https://google.com/search?q=CETRULO) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-16 | [`Corporate Job Bank`](https://google.com/search?q=Corporate+Job+Bank) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-10-16 | [`Lein Law Offices`](https://google.com/search?q=Lein+Law+Offices) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-29 | [`cdc-biodiversite.fr`](https://google.com/search?q=cdc-biodiversite.fr) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2024-09-29 | [`markdom.com`](https://google.com/search?q=markdom.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-29 | [`Soreq NRC Hacked`](https://google.com/search?q=Soreq+NRC+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-09-29 | [`nfe.fazenda.gov.br `](https://google.com/search?q=nfe.fazenda.gov.br+) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
