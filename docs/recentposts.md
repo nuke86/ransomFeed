@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-17 | [`W?l?????n`](https://google.com/search?q=W%3Fl%3F%3F%3F%3F%3Fn) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-16 | [`Microworks`](https://google.com/search?q=Microworks) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-10-16 | [`Henry County Schools`](https://google.com/search?q=Henry+County+Schools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-10-16 | [`http://vra.com`](https://google.com/search?q=http%3A%2F%2Fvra.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-30 | [`McAbee Construction, Inc`](https://google.com/search?q=McAbee+Construction%2C+Inc) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-30 | [`InteriorWorx Commercial Flooring`](https://google.com/search?q=InteriorWorx+Commercial+Flooring) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-30 | [`Garvey`](https://google.com/search?q=Garvey) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-30 | [`G/S Solutions`](https://google.com/search?q=G%2FS+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
