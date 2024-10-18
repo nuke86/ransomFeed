@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-18 | [`Parnell Defense`](https://google.com/search?q=Parnell+Defense) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-18 | [`Glacier`](https://google.com/search?q=Glacier) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-18 | [`Elmore Goldsmith`](https://google.com/search?q=Elmore+Goldsmith) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-18 | [`CreaGen Inc`](https://google.com/search?q=CreaGen+Inc) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-01 | [`www.acuity.co.uk`](https://google.com/search?q=www.acuity.co.uk) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-10-01 | [`Enviromental Design  International`](https://google.com/search?q=Enviromental+Design++International) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-01 | [`www.asobostudio.com`](https://google.com/search?q=www.asobostudio.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2024-10-01 | [`Turman`](https://google.com/search?q=Turman) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
