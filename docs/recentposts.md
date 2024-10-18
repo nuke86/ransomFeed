@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-18 | [`Absolute Machine Tools`](https://google.com/search?q=Absolute+Machine+Tools) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-18 | [`www.qal.com`](https://google.com/search?q=www.qal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-18 | [`Alqaryahauction.com`](https://google.com/search?q=Alqaryahauction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-18 | [`http://neighborscu.org`](https://google.com/search?q=http%3A%2F%2Fneighborscu.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-02 | [`carlile-group.com`](https://google.com/search?q=carlile-group.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-10-02 | [`sacredheart.southwark.sch.uk`](https://google.com/search?q=sacredheart.southwark.sch.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-10-02 | [`mctas.org.au`](https://google.com/search?q=mctas.org.au) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-10-02 | [`mnpl.com.sg`](https://google.com/search?q=mnpl.com.sg) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
