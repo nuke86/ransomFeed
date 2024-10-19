@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-19 | [`www.proflex.ro`](https://google.com/search?q=www.proflex.ro) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-19 | [`www.icp.pr.gov`](https://google.com/search?q=www.icp.pr.gov) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-19 | [`Wilkinson`](https://google.com/search?q=Wilkinson) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-19 | [`The Strainrite Companies`](https://google.com/search?q=The+Strainrite+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-03 | [`www.amchar.com\$28.7M\USA\605GB\100% DISCLOSED`](https://google.com/search?q=www.amchar.com%5C%2428.7M%5CUSA%5C605GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-02 | [`http://branhaven.com`](https://google.com/search?q=http%3A%2F%2Fbranhaven.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-02 | [`ETC Companies`](https://google.com/search?q=ETC+Companies) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-10-02 | [`Forshey Prostok LLP`](https://google.com/search?q=Forshey+Prostok+LLP) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
