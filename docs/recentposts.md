@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-20 | [`Di**ng`](https://google.com/search?q=Di%2A%2Ang) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-10-20 | [`PB**ce`](https://google.com/search?q=PB%2A%2Ace) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-10-20 | [`paciente.sempremedico.com.br`](https://google.com/search?q=paciente.sempremedico.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-20 | [`mh-mech.com`](https://google.com/search?q=mh-mech.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-04 | [`bypeterandpauls.com`](https://google.com/search?q=bypeterandpauls.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-03 | [`CobelPlast`](https://google.com/search?q=CobelPlast) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-03 | [`domainindustries.com`](https://google.com/search?q=domainindustries.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-03 | [`TRC Worldwide Engine ering (Trcww)`](https://google.com/search?q=TRC+Worldwide+Engine+ering+%28Trcww%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
