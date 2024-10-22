@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-22 | [`fordcountrymotors.mx`](https://google.com/search?q=fordcountrymotors.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-22 | [`Temple, Inc.`](https://google.com/search?q=Temple%2C+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-22 | [`Miller Edge`](https://google.com/search?q=Miller+Edge) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-22 | [`The Kaiser Enterprise`](https://google.com/search?q=The+Kaiser+Enterprise) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-05 | [`www.nasa.gov`](https://google.com/search?q=www.nasa.gov) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-10-05 | [`GW Mechanical`](https://google.com/search?q=GW+Mechanical) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-05 | [`Dreyfuss + Blackford Architecture`](https://google.com/search?q=Dreyfuss+%2B+Blackford+Architecture) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-10-05 | [`BNBuilders`](https://google.com/search?q=BNBuilders) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
