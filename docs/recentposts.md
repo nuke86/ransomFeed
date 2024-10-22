@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-22 | [`La Tazza D'oro - Full Leak`](https://google.com/search?q=La+Tazza+D%27oro+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-10-22 | [`Burgess Kilpatrick - Full Leak`](https://google.com/search?q=Burgess+Kilpatrick+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-10-22 | [`Welding and Fabrication (Humble Mfg) - Full Leak`](https://google.com/search?q=Welding+and+Fabrication+%28Humble+Mfg%29+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-10-22 | [`Phyton Biotech - Full Leak`](https://google.com/search?q=Phyton+Biotech+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-06 | [`omniboxx.nl`](https://google.com/search?q=omniboxx.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-06 | [`canstarrestorations.com`](https://google.com/search?q=canstarrestorations.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-06 | [`www.ravencm.com`](https://google.com/search?q=www.ravencm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-06 | [`Ibermutuamur`](https://google.com/search?q=Ibermutuamur) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
