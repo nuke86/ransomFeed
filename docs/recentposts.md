@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-22 | [`Cotala Cross-Media - Full Leak`](https://google.com/search?q=Cotala+Cross-Media+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-10-22 | [`City Projects - Full Leak`](https://google.com/search?q=City+Projects+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-10-22 | [`Raeyco Lab Equipment - Full Leak`](https://google.com/search?q=Raeyco+Lab+Equipment+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-10-22 | [`fordcountrymotors.mx`](https://google.com/search?q=fordcountrymotors.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-06 | [`Power Torque Services`](https://google.com/search?q=Power+Torque+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-06 | [`Creative Consumer Concepts`](https://google.com/search?q=Creative+Consumer+Concepts) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-06 | [`www.aosense.com`](https://google.com/search?q=www.aosense.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2024-10-05 | [`www.nasa.gov`](https://google.com/search?q=www.nasa.gov) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
