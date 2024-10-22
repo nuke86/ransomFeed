@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-22 | [`Miller Edge`](https://google.com/search?q=Miller+Edge) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-22 | [`The Kaiser Enterprise`](https://google.com/search?q=The+Kaiser+Enterprise) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-22 | [`Silver Springs Bottled Water Company`](https://google.com/search?q=Silver+Springs+Bottled+Water+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-21 | [`LEWA`](https://google.com/search?q=LEWA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-05 | [`Dreyfuss + Blackford Architecture`](https://google.com/search?q=Dreyfuss+%2B+Blackford+Architecture) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-05 | [`BNBuilders`](https://google.com/search?q=BNBuilders) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-05 | [`Amplitude Laser`](https://google.com/search?q=Amplitude+Laser) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-10-05 | [`http://www.copysmart.us`](https://google.com/search?q=http%3A%2F%2Fwww.copysmart.us) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
