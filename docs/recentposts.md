@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-13 | [`Myhealthcarebilling`](https://google.com/search?q=Myhealthcarebilling) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-12 | [`Arnott`](https://google.com/search?q=Arnott) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-12 | [`Aptus`](https://google.com/search?q=Aptus) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-12-12 | [`Wintergreen Learning Materials`](https://google.com/search?q=Wintergreen+Learning+Materials) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-26 | [`waltersgardens.com`](https://google.com/search?q=waltersgardens.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-26 | [`goformz.com`](https://google.com/search?q=goformz.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-26 | [`empowersettlementservices.com`](https://google.com/search?q=empowersettlementservices.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-26 | [`mydelux.com.my`](https://google.com/search?q=mydelux.com.my) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
