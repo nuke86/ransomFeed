@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-14 | [`Tri County Property Management`](https://google.com/search?q=Tri+County+Property+Management) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-12-14 | [`Archdiocese of Louisville`](https://google.com/search?q=Archdiocese+of+Louisville) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-12-14 | [`Watsonville Community Hospital`](https://google.com/search?q=Watsonville+Community+Hospital) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2024-12-14 | [`Talascend`](https://google.com/search?q=Talascend) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-26 | [`www.netromsoftware.ro`](https://google.com/search?q=www.netromsoftware.ro) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-26 | [`Pinnacle Plastic Products (pinnacleplasitcporducts.com)`](https://google.com/search?q=Pinnacle+Plastic+Products+%28pinnacleplasitcporducts.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-26 | [`Complete Recycling Services (completerecyclingservices.com)`](https://google.com/search?q=Complete+Recycling+Services+%28completerecyclingservices.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-11-26 | [`GMG`](https://google.com/search?q=GMG) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
