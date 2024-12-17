@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-17 | [`redknee.com`](https://google.com/search?q=redknee.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-17 | [`nbleisuretrust.org`](https://google.com/search?q=nbleisuretrust.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-17 | [`Ecritel`](https://google.com/search?q=Ecritel) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-17 | [`kuritaamerica.com`](https://google.com/search?q=kuritaamerica.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-28 | [`briatek.com.ng`](https://google.com/search?q=briatek.com.ng) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-28 | [`clubfitsoftware.com.au`](https://google.com/search?q=clubfitsoftware.com.au) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-28 | [`visufarma.com`](https://google.com/search?q=visufarma.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-28 | [`cloudofgoods.com`](https://google.com/search?q=cloudofgoods.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
