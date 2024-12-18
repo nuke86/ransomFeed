@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-18 | [`Grimaldi Alliance`](https://google.com/search?q=Grimaldi+Alliance) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-18 | [`Medion AG`](https://google.com/search?q=Medion+AG) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-18 | [`bushandburchett.com`](https://google.com/search?q=bushandburchett.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-18 | [`www.specialtree.com`](https://google.com/search?q=www.specialtree.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-28 | [`https://jtekt-na.com/`](https://google.com/search?q=https%3A%2F%2Fjtekt-na.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-28 | [`Chanas Assurances S.A. (chanasassurances.com)`](https://google.com/search?q=Chanas+Assurances+S.A.+%28chanasassurances.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-28 | [`NHS Alder Hey`](https://google.com/search?q=NHS+Alder+Hey) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-28 | [`Bedminster School (bedminsterschool.org)`](https://google.com/search?q=Bedminster+School+%28bedminsterschool.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
