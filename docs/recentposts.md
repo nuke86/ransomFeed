@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-20 | [`Izmocars`](https://google.com/search?q=Izmocars) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-20 | [`Genie Healthcare`](https://google.com/search?q=Genie+Healthcare) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-20 | [`Khalil Center`](https://google.com/search?q=Khalil+Center) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-20 | [`tabocas.com.br`](https://google.com/search?q=tabocas.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-02 | [`salesgig.com`](https://google.com/search?q=salesgig.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-12-02 | [`KHKKLOW.com`](https://google.com/search?q=KHKKLOW.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-02 | [`Conlin&#39;s Pharmacy (conlinspharmacy.com)`](https://google.com/search?q=Conlin%26%2339%3Bs+Pharmacy+%28conlinspharmacy.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-12-02 | [`Mmaynewagemicro`](https://google.com/search?q=Mmaynewagemicro) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
