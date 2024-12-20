@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-20 | [`Genie Healthcare`](https://google.com/search?q=Genie+Healthcare) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-20 | [`Khalil Center`](https://google.com/search?q=Khalil+Center) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-20 | [`tabocas.com.br`](https://google.com/search?q=tabocas.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-20 | [`Water Utilities Corporation`](https://google.com/search?q=Water+Utilities+Corporation) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-02 | [`KHKKLOW.com`](https://google.com/search?q=KHKKLOW.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-02 | [`Conlin&#39;s Pharmacy (conlinspharmacy.com)`](https://google.com/search?q=Conlin%26%2339%3Bs+Pharmacy+%28conlinspharmacy.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-02 | [`Mmaynewagemicro`](https://google.com/search?q=Mmaynewagemicro) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2024-12-02 | [`G-ONE AUTO PARTS DE MÉXICO, S.A. DE C.V.`](https://google.com/search?q=G-ONE+AUTO+PARTS+DE+M%C3%89XICO%2C+S.A.+DE+C.V.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
