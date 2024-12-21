@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-21 | [`LAMERS ENTERPRISE INC`](https://google.com/search?q=LAMERS+ENTERPRISE+INC) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-21 | [`Langford Tool And Drill Co`](https://google.com/search?q=Langford+Tool+And+Drill+Co) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-21 | [`McCally Tool and Supply`](https://google.com/search?q=McCally+Tool+and+Supply) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-21 | [`berkotfoods.com`](https://google.com/search?q=berkotfoods.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-04 | [`westbornmarket.com`](https://google.com/search?q=westbornmarket.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-04 | [`www.lasalle.com`](https://google.com/search?q=www.lasalle.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-03 | [`Communicare Inc.(US)`](https://google.com/search?q=Communicare+Inc.%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
-| 2024-12-03 | [`Inland Tarp & Liner`](https://google.com/search?q=Inland+Tarp+%26+Liner) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
