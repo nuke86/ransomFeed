@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-22 | [`A Beautiful Pools Inc `](https://google.com/search?q=A+Beautiful+Pools+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-22 | [`Fireproof Contractors Inc `](https://google.com/search?q=Fireproof+Contractors+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-22 | [`Kilgore Industries `](https://google.com/search?q=Kilgore+Industries+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-22 | [`ibericar - Press Release`](https://google.com/search?q=ibericar+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-04 | [`www.iscinc93.com`](https://google.com/search?q=www.iscinc93.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-04 | [`www.fibrogen.com`](https://google.com/search?q=www.fibrogen.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-04 | [`www.z2data.com`](https://google.com/search?q=www.z2data.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-04 | [`www.giorgiovisconti.it`](https://google.com/search?q=www.giorgiovisconti.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
