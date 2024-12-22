@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-22 | [`www.lightspeeddesign.com`](https://google.com/search?q=www.lightspeeddesign.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-12-22 | [`acumengroup.us`](https://google.com/search?q=acumengroup.us) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-12-22 | [`lasen.com`](https://google.com/search?q=lasen.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-12-22 | [`GNS Cloud Hacked`](https://google.com/search?q=GNS+Cloud+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-04 | [`www.dalgroup.com`](https://google.com/search?q=www.dalgroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-04 | [`www.goethe-university-frankfurt.de`](https://google.com/search?q=www.goethe-university-frankfurt.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-04 | [`www.wsgcpa.com`](https://google.com/search?q=www.wsgcpa.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-04 | [`www.sefiso-atlantique.fr`](https://google.com/search?q=www.sefiso-atlantique.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
