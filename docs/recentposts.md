@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-22 | [`GNS Cloud Hacked`](https://google.com/search?q=GNS+Cloud+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-22 | [`J AND S Electrical And Lighting Supply LLC`](https://google.com/search?q=J+AND+S+Electrical+And+Lighting+Supply+LLC) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-21 | [`LAMERS ENTERPRISE INC`](https://google.com/search?q=LAMERS+ENTERPRISE+INC) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-21 | [`Langford Tool And Drill Co`](https://google.com/search?q=Langford+Tool+And+Drill+Co) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-04 | [`www.sefiso-atlantique.fr`](https://google.com/search?q=www.sefiso-atlantique.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-04 | [`marietta-city.org`](https://google.com/search?q=marietta-city.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-04 | [`westbornmarket.com`](https://google.com/search?q=westbornmarket.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-04 | [`www.lasalle.com`](https://google.com/search?q=www.lasalle.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
