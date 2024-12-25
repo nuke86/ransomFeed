@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-25 | [`bri.co.id (SOLD TO 3RD PARTY)`](https://google.com/search?q=bri.co.id+%28SOLD+TO+3RD+PARTY%29) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-25 | [`Eisenhower Carlson`](https://google.com/search?q=Eisenhower+Carlson) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-12-25 | [`Austin&#39;s Financial Solutions`](https://google.com/search?q=Austin%26%2339%3Bs+Financial+Solutions) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-12-25 | [`Tharisa`](https://google.com/search?q=Tharisa) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-05 | [`SRP Federal Credit Union`](https://google.com/search?q=SRP+Federal+Credit+Union) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-05 | [`Aptus Value Housing Finance India Ltd`](https://google.com/search?q=Aptus+Value+Housing+Finance+India+Ltd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-12-05 | [`[DISCLOSED]Sabesp`](https://google.com/search?q=%5BDISCLOSED%5DSabesp) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-12-05 | [`[DISCLOSED]GuangDong South Land pharmaceutical`](https://google.com/search?q=%5BDISCLOSED%5DGuangDong+South+Land+pharmaceutical) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
