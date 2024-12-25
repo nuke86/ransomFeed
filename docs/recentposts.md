@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-25 | [`Tharisa`](https://google.com/search?q=Tharisa) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2024-12-25 | [`sensualcollection.com`](https://google.com/search?q=sensualcollection.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-25 | [`Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD) - Blora Regency`](https://google.com/search?q=Sistem+Informasi+Pengelolaan+Keuangan+Daerah+%28SIPKD%29+-+Blora+Regency) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
 | 2024-12-24 | [`SeaLandAire Technologies`](https://google.com/search?q=SeaLandAire+Technologies) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-05 | [`[DISCLOSED]GuangDong South Land pharmaceutical`](https://google.com/search?q=%5BDISCLOSED%5DGuangDong+South+Land+pharmaceutical) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-12-05 | [`[DISCLOSED]Interior Metals`](https://google.com/search?q=%5BDISCLOSED%5DInterior+Metals) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-12-05 | [`Dorner (dorner-gmbh.de)`](https://google.com/search?q=Dorner+%28dorner-gmbh.de%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-12-05 | [`Star Shuttle Inc.`](https://google.com/search?q=Star+Shuttle+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
