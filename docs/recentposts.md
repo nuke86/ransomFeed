@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-26 | [`www.prixet.com`](https://google.com/search?q=www.prixet.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-26 | [`www.minerasancristobal.com`](https://google.com/search?q=www.minerasancristobal.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-26 | [`Car Care Plan - Data Breach`](https://google.com/search?q=Car+Care+Plan+-+Data+Breach) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
 | 2024-12-25 | [`n4telecom.com.br`](https://google.com/search?q=n4telecom.com.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-06 | [`Blue Yonder`](https://google.com/search?q=Blue+Yonder) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2024-12-06 | [`LTI Trucking Services`](https://google.com/search?q=LTI+Trucking+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-06 | [`pro-mec.com`](https://google.com/search?q=pro-mec.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-06 | [`pez.com`](https://google.com/search?q=pez.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
