@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-26 | [`http://www.advokatur-bl.ch`](https://google.com/search?q=http%3A%2F%2Fwww.advokatur-bl.ch) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-12-26 | [`www.prixet.com`](https://google.com/search?q=www.prixet.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-26 | [`www.minerasancristobal.com`](https://google.com/search?q=www.minerasancristobal.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-26 | [`Car Care Plan - Data Breach`](https://google.com/search?q=Car+Care+Plan+-+Data+Breach) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-06 | [`Medical Technology Industries, Inc.`](https://google.com/search?q=Medical+Technology+Industries%2C+Inc.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-06 | [`Blue Yonder`](https://google.com/search?q=Blue+Yonder) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2024-12-06 | [`LTI Trucking Services`](https://google.com/search?q=LTI+Trucking+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-12-06 | [`pro-mec.com`](https://google.com/search?q=pro-mec.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
