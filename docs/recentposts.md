@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-26 | [`Family Help & Wellness`](https://google.com/search?q=Family+Help+%26+Wellness) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-26 | [`Associates`](https://google.com/search?q=Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-26 | [`Caframo Limited.`](https://google.com/search?q=Caframo+Limited.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-26 | [`http://www.advokatur-bl.ch`](https://google.com/search?q=http%3A%2F%2Fwww.advokatur-bl.ch) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-07 | [`Arc Community Services Inc`](https://google.com/search?q=Arc+Community+Services+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-12-07 | [`CO-VER Power Technology SpA`](https://google.com/search?q=CO-VER+Power+Technology+SpA) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-06 | [`T & M Equipment`](https://google.com/search?q=T+%26+M+Equipment) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2024-12-06 | [`Medical Technology Industries, Inc.`](https://google.com/search?q=Medical+Technology+Industries%2C+Inc.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
