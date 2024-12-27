@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-27 | [`diazfoodsolutions.es`](https://google.com/search?q=diazfoodsolutions.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-27 | [`falp.org`](https://google.com/search?q=falp.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-12-27 | [`Inner City Family Health Team (ICFHT.local)`](https://google.com/search?q=Inner+City+Family+Health+Team+%28ICFHT.local%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-12-27 | [`[DISCLOSED] KuiperCompagnons`](https://google.com/search?q=%5BDISCLOSED%5D+KuiperCompagnons) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-09 | [`nedamaritime.gr`](https://google.com/search?q=nedamaritime.gr) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2024-12-09 | [`mpdory.com`](https://google.com/search?q=mpdory.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-09 | [`www.lasalleinc.com`](https://google.com/search?q=www.lasalleinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-09 | [`http://copresi.es`](https://google.com/search?q=http%3A%2F%2Fcopresi.es) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
