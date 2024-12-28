@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-28 | [`Atos (Business Services · France)`](https://google.com/search?q=Atos+%28Business+Services+%C2%B7+France%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-12-28 | [`Farrar & Ball`](https://google.com/search?q=Farrar+%26+Ball) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-27 | [`diazfoodsolutions.es`](https://google.com/search?q=diazfoodsolutions.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-27 | [`falp.org`](https://google.com/search?q=falp.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-09 | [`bankily.mr`](https://google.com/search?q=bankily.mr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-09 | [`Hosting.co.uk`](https://google.com/search?q=Hosting.co.uk) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-09 | [`nedamaritime.gr`](https://google.com/search?q=nedamaritime.gr) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
-| 2024-12-09 | [`mpdory.com`](https://google.com/search?q=mpdory.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
