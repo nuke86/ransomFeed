@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-29 | [`IEC + EMCO`](https://google.com/search?q=IEC+%2B+EMCO) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-29 | [`Engenet Informatica`](https://google.com/search?q=Engenet+Informatica) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-29 | [`dgenviro.com`](https://google.com/search?q=dgenviro.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-12-29 | [`timely.mn`](https://google.com/search?q=timely.mn) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-10 | [`womenscare.com`](https://google.com/search?q=womenscare.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-10 | [`tectaamerica.com`](https://google.com/search?q=tectaamerica.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-10 | [`Haji Husein Alireza`](https://google.com/search?q=Haji+Husein+Alireza) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-12-10 | [`Telecom Namibia`](https://google.com/search?q=Telecom+Namibia) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
