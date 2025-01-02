@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-02 | [`groupegm.com`](https://google.com/search?q=groupegm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-01 | [`http://www.kitevuc.com`](https://google.com/search?q=http%3A%2F%2Fwww.kitevuc.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2025-01-01 | [`CM Buck & Associates`](https://google.com/search?q=CM+Buck+%26+Associates) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-01 | [`lianbeng.sg`](https://google.com/search?q=lianbeng.sg) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-12 | [`recope.go.cr`](https://google.com/search?q=recope.go.cr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-12 | [`Southern Acids`](https://google.com/search?q=Southern+Acids) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-12 | [`Tejas Office Products, Inc. `](https://google.com/search?q=Tejas+Office+Products%2C+Inc.+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2024-12-12 | [`Locke Solutions , LLC `](https://google.com/search?q=Locke+Solutions+%2C+LLC+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
