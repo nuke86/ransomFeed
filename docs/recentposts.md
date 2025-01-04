@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-04 | [`hasa-arg.com`](https://google.com/search?q=hasa-arg.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2025-01-04 | [`perucontrols.com`](https://google.com/search?q=perucontrols.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2025-01-04 | [`datascan.com`](https://google.com/search?q=datascan.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2025-01-04 | [`Montreal North`](https://google.com/search?q=Montreal+North) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-13 | [`Sigarth`](https://google.com/search?q=Sigarth) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-13 | [`SBW`](https://google.com/search?q=SBW) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-13 | [`Maxus Group`](https://google.com/search?q=Maxus+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-12-13 | [`Long Beach Convention Center`](https://google.com/search?q=Long+Beach+Convention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
