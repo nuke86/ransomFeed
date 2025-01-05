@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-05 | [`bigalsfoodservice.co.uk`](https://google.com/search?q=bigalsfoodservice.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`baldinger-ag.ch`](https://google.com/search?q=baldinger-ag.ch) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`assurified.com`](https://google.com/search?q=assurified.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`aliorbank.pl`](https://google.com/search?q=aliorbank.pl) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-13 | [`Kazyon`](https://google.com/search?q=Kazyon) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2024-12-13 | [`Gills Onions`](https://google.com/search?q=Gills+Onions) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-13 | [`Goins Law`](https://google.com/search?q=Goins+Law) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2024-12-13 | [`Sunline`](https://google.com/search?q=Sunline) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
