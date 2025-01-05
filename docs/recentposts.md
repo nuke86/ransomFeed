@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-05 | [`Car Care Plan - Turkey`](https://google.com/search?q=Car+Care+Plan+-+Turkey) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
 | 2025-01-05 | [`fpj.com.py PART3`](https://google.com/search?q=fpj.com.py+PART3) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-05 | [`Hunter Taubman Fischer & Li`](https://google.com/search?q=Hunter+Taubman+Fischer+%26+Li) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-05 | [`akantha.fr`](https://google.com/search?q=akantha.fr) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-14 | [`bankily.mr - SOLD`](https://google.com/search?q=bankily.mr+-+SOLD) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-14 | [`Anetic Aid`](https://google.com/search?q=Anetic+Aid) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-12-14 | [`Tri County Property Management`](https://google.com/search?q=Tri+County+Property+Management) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2024-12-14 | [`Archdiocese of Louisville`](https://google.com/search?q=Archdiocese+of+Louisville) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
