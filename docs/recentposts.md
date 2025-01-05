@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-05 | [`credio.eu`](https://google.com/search?q=credio.eu) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-05 | [`certifiedinfosec.com`](https://google.com/search?q=certifiedinfosec.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-05 | [`bms.com`](https://google.com/search?q=bms.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-05 | [`bigalsfoodservice.co.uk`](https://google.com/search?q=bigalsfoodservice.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-14 | [`tekni-plex.com`](https://google.com/search?q=tekni-plex.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-13 | [`www.hashem-contracting.com`](https://google.com/search?q=www.hashem-contracting.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-13 | [`http://www.abag-sroc.pt`](https://google.com/search?q=http%3A%2F%2Fwww.abag-sroc.pt) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2024-12-13 | [`Kazyon`](https://google.com/search?q=Kazyon) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
