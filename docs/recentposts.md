@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-06 | [`sansirostadium.com`](https://google.com/search?q=sansirostadium.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-06 | [`protectasecurity.pe`](https://google.com/search?q=protectasecurity.pe) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-06 | [`prixet.com`](https://google.com/search?q=prixet.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-06 | [`polleninformation.at`](https://google.com/search?q=polleninformation.at) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-16 | [`scania.pl`](https://google.com/search?q=scania.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-16 | [`www.aflak.com.sa`](https://google.com/search?q=www.aflak.com.sa) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-15 | [`JSSR Options Co., Ltd. (JSSR)`](https://google.com/search?q=JSSR+Options+Co.%2C+Ltd.+%28JSSR%29) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-12-15 | [`Tumeny Payments Limited`](https://google.com/search?q=Tumeny+Payments+Limited) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
