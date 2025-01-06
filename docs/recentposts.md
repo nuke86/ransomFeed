@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-06 | [`molars.co.ke`](https://google.com/search?q=molars.co.ke) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-06 | [`netromsoftware.ro`](https://google.com/search?q=netromsoftware.ro) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-06 | [`minerasancristobal.com`](https://google.com/search?q=minerasancristobal.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-06 | [`legilog.fr`](https://google.com/search?q=legilog.fr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-15 | [`www.kandelaar.com`](https://google.com/search?q=www.kandelaar.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-12-14 | [`Levinlaw.com`](https://google.com/search?q=Levinlaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-14 | [`American Computer Estimating Inc`](https://google.com/search?q=American+Computer+Estimating+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-12-14 | [`MedRevenu Inc`](https://google.com/search?q=MedRevenu+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
