@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-07 | [`trinitesolutions.com`](https://google.com/search?q=trinitesolutions.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-07 | [`trifecta.com`](https://google.com/search?q=trifecta.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-07 | [`u0 Excel Transportation`](https://google.com/search?q=u0+Excel+Transportation) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-07 | [`Saint-Bar (saintbar.be)`](https://google.com/search?q=Saint-Bar+%28saintbar.be%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-17 | [`Lanigan Ryan`](https://google.com/search?q=Lanigan+Ryan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-17 | [`Joshua Grading & Excavating`](https://google.com/search?q=Joshua+Grading+%26+Excavating) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-17 | [`Total Patient Care LLC;A Sensitive Touch Home Health;Alphastar Home Health Care;Heart of T`](https://google.com/search?q=Total+Patient+Care+LLC%3BA+Sensitive+Touch+Home+Health%3BAlphastar+Home+Health+Care%3BHeart+of+T) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-12-17 | [`Bio-Clima Service Srl Data Leak`](https://google.com/search?q=Bio-Clima+Service+Srl+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
