@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-07 | [`sfr.fr`](https://google.com/search?q=sfr.fr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-07 | [`servicepower.com`](https://google.com/search?q=servicepower.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-07 | [`sella.eng.br`](https://google.com/search?q=sella.eng.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-06 | [`scopeset.de`](https://google.com/search?q=scopeset.de) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-16 | [`SWDAKOTAH.COM`](https://google.com/search?q=SWDAKOTAH.COM) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-16 | [`Waverley Christian College (wcc.vic.edu.au)`](https://google.com/search?q=Waverley+Christian+College+%28wcc.vic.edu.au%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-16 | [`Cognity (cognity.gr)`](https://google.com/search?q=Cognity+%28cognity.gr%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-12-16 | [`Simmtech Co., Ltd.`](https://google.com/search?q=Simmtech+Co.%2C+Ltd.) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
