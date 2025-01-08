@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-08 | [`Huntington Hotel Group`](https://google.com/search?q=Huntington+Hotel+Group) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-01-08 | [`fwmep.edu`](https://google.com/search?q=fwmep.edu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-08 | [`sahpetrol.com.tr`](https://google.com/search?q=sahpetrol.com.tr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-08 | [`acquafertil.com.br`](https://google.com/search?q=acquafertil.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-18 | [`choicemg.com`](https://google.com/search?q=choicemg.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-18 | [`medisecure.com.au`](https://google.com/search?q=medisecure.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-18 | [`Avstar Fuel Systems`](https://google.com/search?q=Avstar+Fuel+Systems) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-12-17 | [`redknee.com`](https://google.com/search?q=redknee.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
