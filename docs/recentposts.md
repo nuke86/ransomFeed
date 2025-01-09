@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-09 | [`depewgillen.com`](https://google.com/search?q=depewgillen.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-09 | [`Sarah Car Care Data Leak`](https://google.com/search?q=Sarah+Car+Care+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-01-09 | [`Myhealthcarebilling Data Leak`](https://google.com/search?q=Myhealthcarebilling+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-01-09 | [`Izmocars Data Leak`](https://google.com/search?q=Izmocars+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-19 | [`Fruit of the Earth`](https://google.com/search?q=Fruit+of+the+Earth) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-18 | [`Bender GmbH &amp; Co. KG`](https://google.com/search?q=Bender+GmbH+%26amp%3B+Co.+KG) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-18 | [`Valveworks USA`](https://google.com/search?q=Valveworks+USA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-12-18 | [`Wikov`](https://google.com/search?q=Wikov) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
