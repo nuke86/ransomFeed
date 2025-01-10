@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-10 | [`Protected: Title Hidden`](https://google.com/search?q=Protected%3A+Title+Hidden) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-01-10 | [`www.wisesocon.com`](https://google.com/search?q=www.wisesocon.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-10 | [`Qualinet`](https://google.com/search?q=Qualinet) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-10 | [`amerplumb.com`](https://google.com/search?q=amerplumb.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-20 | [`Development Bank of Jamaica`](https://google.com/search?q=Development+Bank+of+Jamaica) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-19 | [`Krispy Kreme`](https://google.com/search?q=Krispy+Kreme) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-19 | [`Astaphans`](https://google.com/search?q=Astaphans) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-12-19 | [`Archetype Group`](https://google.com/search?q=Archetype+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
