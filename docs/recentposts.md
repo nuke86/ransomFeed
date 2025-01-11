@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-11 | [`www.temotekstil.com.tr`](https://google.com/search?q=www.temotekstil.com.tr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-11 | [`www.excelresourcing.co.uk`](https://google.com/search?q=www.excelresourcing.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-10 | [`Protected: Title Hidden`](https://google.com/search?q=Protected%3A+Title+Hidden) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-01-10 | [`www.wisesocon.com`](https://google.com/search?q=www.wisesocon.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-20 | [`Trev Deeley Motorcycles`](https://google.com/search?q=Trev+Deeley+Motorcycles) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-20 | [`Microvision`](https://google.com/search?q=Microvision) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-20 | [`Development Bank of Jamaica`](https://google.com/search?q=Development+Bank+of+Jamaica) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-12-19 | [`Krispy Kreme`](https://google.com/search?q=Krispy+Kreme) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
