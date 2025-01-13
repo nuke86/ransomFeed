@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-13 | [`healthcarewithinreach.org`](https://google.com/search?q=healthcarewithinreach.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-13 | [`telering.de`](https://google.com/search?q=telering.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-13 | [`mi.edu`](https://google.com/search?q=mi.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-13 | [`adveo.com\$740.7M\France\1.1TB\100% DISCLOSED`](https://google.com/search?q=adveo.com%5C%24740.7M%5CFrance%5C1.1TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-22 | [`Kilgore Industries `](https://google.com/search?q=Kilgore+Industries+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-22 | [`ibericar - Press Release`](https://google.com/search?q=ibericar+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-12-22 | [`Banner Day Camp`](https://google.com/search?q=Banner+Day+Camp) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2024-12-22 | [`www.lightspeeddesign.com`](https://google.com/search?q=www.lightspeeddesign.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
