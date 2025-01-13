@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-13 | [`adveo.com\$740.7M\France\1.1TB\100% DISCLOSED`](https://google.com/search?q=adveo.com%5C%24740.7M%5CFrance%5C1.1TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-13 | [`linebank.co.id`](https://google.com/search?q=linebank.co.id) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-13 | [`azpay.me - SOLD`](https://google.com/search?q=azpay.me+-+SOLD) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-13 | [`Jim Thompson`](https://google.com/search?q=Jim+Thompson) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-22 | [`www.lightspeeddesign.com`](https://google.com/search?q=www.lightspeeddesign.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-12-22 | [`acumengroup.us`](https://google.com/search?q=acumengroup.us) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-12-22 | [`lasen.com`](https://google.com/search?q=lasen.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-12-22 | [`GNS Cloud Hacked`](https://google.com/search?q=GNS+Cloud+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
