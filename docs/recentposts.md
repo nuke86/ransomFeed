@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-14 | [`Imperial Valley Respite (ivrespite.com)`](https://google.com/search?q=Imperial+Valley+Respite+%28ivrespite.com%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-14 | [`Findhelp Information Services`](https://google.com/search?q=Findhelp+Information+Services) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-14 | [`Biomedical Caledonia Medical Laboratory (calmedlab.local)`](https://google.com/search?q=Biomedical+Caledonia+Medical+Laboratory+%28calmedlab.local%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-14 | [`The Chicano Federation`](https://google.com/search?q=The+Chicano+Federation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-23 | [`marmon-herrington.com`](https://google.com/search?q=marmon-herrington.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-23 | [`9fsfalcons.org`](https://google.com/search?q=9fsfalcons.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-23 | [`Cathedral Prep (villalan.edu)`](https://google.com/search?q=Cathedral+Prep+%28villalan.edu%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-12-23 | [`adveo.com\$740.7M\France\1.1TB\&lt;1% DISCLOSED`](https://google.com/search?q=adveo.com%5C%24740.7M%5CFrance%5C1.1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
