@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-14 | [`pittman-construction.com`](https://google.com/search?q=pittman-construction.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`oyolasvegas.com`](https://google.com/search?q=oyolasvegas.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`nicatel.com.uy`](https://google.com/search?q=nicatel.com.uy) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`lamejor.com.co`](https://google.com/search?q=lamejor.com.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-23 | [`Gr****up`](https://google.com/search?q=Gr%2A%2A%2A%2Aup) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-23 | [`De****ep`](https://google.com/search?q=De%2A%2A%2A%2Aep) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-23 | [`Ri****uk`](https://google.com/search?q=Ri%2A%2A%2A%2Auk) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-12-23 | [`NE****IT`](https://google.com/search?q=NE%2A%2A%2A%2AIT) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
