@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-15 | [`Intelservice.com`](https://google.com/search?q=Intelservice.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-15 | [`udb.net`](https://google.com/search?q=udb.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-15 | [`anwsd.org`](https://google.com/search?q=anwsd.org) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2025-01-15 | [`www.eurocert.pl`](https://google.com/search?q=www.eurocert.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-24 | [`intellinet-es.com`](https://google.com/search?q=intellinet-es.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-24 | [`www.semfin.com`](https://google.com/search?q=www.semfin.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-24 | [`www.mccoyglobal.com`](https://google.com/search?q=www.mccoyglobal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-24 | [`SmartLynx Airlines SIA`](https://google.com/search?q=SmartLynx+Airlines+SIA) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
