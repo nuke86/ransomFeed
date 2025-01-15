@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-15 | [`fplfood.com\$675M\USA\21GB\&lt;1% DISCLOSED`](https://google.com/search?q=fplfood.com%5C%24675M%5CUSA%5C21GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-15 | [`Farmacia Cofar`](https://google.com/search?q=Farmacia+Cofar) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-01-15 | [`Intelservice.com`](https://google.com/search?q=Intelservice.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-15 | [`udb.net`](https://google.com/search?q=udb.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-24 | [`RODS Surveying (rods.cc)`](https://google.com/search?q=RODS+Surveying+%28rods.cc%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-24 | [`It seems that it was easier to pay and calmly fix everything.`](https://google.com/search?q=It+seems+that+it+was+easier+to+pay+and+calmly+fix+everything.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-12-24 | [`intellinet-es.com`](https://google.com/search?q=intellinet-es.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-24 | [`www.semfin.com`](https://google.com/search?q=www.semfin.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
