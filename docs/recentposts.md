@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-16 | [`bsegroup.it`](https://google.com/search?q=bsegroup.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-16 | [`FSOCIETY X FUNKSEC`](https://google.com/search?q=FSOCIETY+X+FUNKSEC) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-01-16 | [`www.solariumrevestimentos.com.br`](https://google.com/search?q=www.solariumrevestimentos.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-16 | [`www.liteputer.com.tw`](https://google.com/search?q=www.liteputer.com.tw) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-25 | [`sensualcollection.com`](https://google.com/search?q=sensualcollection.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-25 | [`Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD) - Blora Regency`](https://google.com/search?q=Sistem+Informasi+Pengelolaan+Keuangan+Daerah+%28SIPKD%29+-+Blora+Regency) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
 | 2024-12-24 | [`SeaLandAire Technologies`](https://google.com/search?q=SeaLandAire+Technologies) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-12-24 | [`relate-infotech.com`](https://google.com/search?q=relate-infotech.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
