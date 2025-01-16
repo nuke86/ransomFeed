@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-16 | [`anupalanonline.com`](https://google.com/search?q=anupalanonline.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-01-16 | [`A*****Y.com`](https://google.com/search?q=A%2A%2A%2A%2A%2AY.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-01-16 | [`bsegroup.it`](https://google.com/search?q=bsegroup.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-16 | [`FSOCIETY X FUNKSEC`](https://google.com/search?q=FSOCIETY+X+FUNKSEC) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-25 | [`Austin&#39;s Financial Solutions`](https://google.com/search?q=Austin%26%2339%3Bs+Financial+Solutions) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-12-25 | [`Tharisa`](https://google.com/search?q=Tharisa) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2024-12-25 | [`sensualcollection.com`](https://google.com/search?q=sensualcollection.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-25 | [`Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD) - Blora Regency`](https://google.com/search?q=Sistem+Informasi+Pengelolaan+Keuangan+Daerah+%28SIPKD%29+-+Blora+Regency) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
