@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-17 | [`Regina Coeli Convent`](https://google.com/search?q=Regina+Coeli+Convent) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-17 | [`Kilgore College (kilgore.edu)`](https://google.com/search?q=Kilgore+College+%28kilgore.edu%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-17 | [`Fish Nelson and Holden`](https://google.com/search?q=Fish+Nelson+and+Holden) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-01-16 | [`Woodlake`](https://google.com/search?q=Woodlake) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-26 | [`Car Care Plan - Data Breach`](https://google.com/search?q=Car+Care+Plan+-+Data+Breach) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
 | 2024-12-25 | [`n4telecom.com.br`](https://google.com/search?q=n4telecom.com.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-25 | [`Reutone Hacked`](https://google.com/search?q=Reutone+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-12-25 | [`Aroma Housewares Co (Aromaco.com)`](https://google.com/search?q=Aroma+Housewares+Co+%28Aromaco.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
