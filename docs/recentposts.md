@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-18 | [`Kassin & Carrow`](https://google.com/search?q=Kassin+%26+Carrow) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-18 | [`Kinseth Hospitality Companies `](https://google.com/search?q=Kinseth+Hospitality+Companies+) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-17 | [`Woodport Doors`](https://google.com/search?q=Woodport+Doors) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-17 | [`Douglas County, GA (DDCWSA.COM)`](https://google.com/search?q=Douglas+County%2C+GA+%28DDCWSA.COM%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-27 | [`[DISCLOSED] Lago Group Spa`](https://google.com/search?q=%5BDISCLOSED%5D+Lago+Group+Spa) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-12-27 | [`[DISCLOSED] INFiLED`](https://google.com/search?q=%5BDISCLOSED%5D+INFiLED) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-12-27 | [`Village Community School (vcsnyc.org)`](https://google.com/search?q=Village+Community+School+%28vcsnyc.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-12-27 | [`Primary Health Services Center`](https://google.com/search?q=Primary+Health+Services+Center) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
