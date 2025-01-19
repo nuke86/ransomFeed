@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-19 | [`pnp.co.za`](https://google.com/search?q=pnp.co.za) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-19 | [`betclic.com`](https://google.com/search?q=betclic.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-18 | [`J.G. Electrical Installations`](https://google.com/search?q=J.G.+Electrical+Installations) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-01-18 | [`Combined Pool and Spa`](https://google.com/search?q=Combined+Pool+and+Spa) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-28 | [`Compass Communications(Attack again)`](https://google.com/search?q=Compass+Communications%28Attack+again%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-28 | [`Watertown Public Schools`](https://google.com/search?q=Watertown+Public+Schools) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-28 | [`STEG Stadtentwicklung`](https://google.com/search?q=STEG+Stadtentwicklung) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-12-28 | [`Ire-Omba SpA`](https://google.com/search?q=Ire-Omba+SpA) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
