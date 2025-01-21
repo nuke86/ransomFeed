@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-21 | [`Bethany Hospital`](https://google.com/search?q=Bethany+Hospital) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-21 | [`Marukai`](https://google.com/search?q=Marukai) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-20 | [`PetroVietnam Exploration Production Corporation`](https://google.com/search?q=PetroVietnam+Exploration+Production+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-01-20 | [`The Urswick School`](https://google.com/search?q=The+Urswick+School) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-30 | [`Hi-Raise Constructions Holding`](https://google.com/search?q=Hi-Raise+Constructions+Holding) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-30 | [`Megaexit`](https://google.com/search?q=Megaexit) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-30 | [`Wosac`](https://google.com/search?q=Wosac) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-12-30 | [`Innois`](https://google.com/search?q=Innois) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
