@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-24 | [`De La Salle High School (dlshs.org)`](https://google.com/search?q=De+La+Salle+High+School+%28dlshs.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-24 | [`icicibank.com`](https://google.com/search?q=icicibank.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-24 | [`Punjab.gov.pk`](https://google.com/search?q=Punjab.gov.pk) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-01-24 | [`reesndt.ca`](https://google.com/search?q=reesndt.ca) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-05 | [`lamaisonducitron.com`](https://google.com/search?q=lamaisonducitron.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-05 | [`gannons.co.uk`](https://google.com/search?q=gannons.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-05 | [`Car Care Plan - Turkey`](https://google.com/search?q=Car+Care+Plan+-+Turkey) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
-| 2025-01-05 | [`fpj.com.py PART3`](https://google.com/search?q=fpj.com.py+PART3) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
