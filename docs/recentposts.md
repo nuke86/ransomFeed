@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-28 | [`cnnindonesia.com`](https://google.com/search?q=cnnindonesia.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-27 | [`Alo Center (hq.aloteknik.se)`](https://google.com/search?q=Alo+Center+%28hq.aloteknik.se%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-27 | [`https://leehartman.com`](https://google.com/search?q=https%3A%2F%2Fleehartman.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2025-01-27 | [`lhps.org`](https://google.com/search?q=lhps.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-07 | [`talonsolutions.co.uk`](https://google.com/search?q=talonsolutions.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-07 | [`siapenet.gov.br`](https://google.com/search?q=siapenet.gov.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-07 | [`sfr.fr`](https://google.com/search?q=sfr.fr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2025-01-07 | [`servicepower.com`](https://google.com/search?q=servicepower.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
