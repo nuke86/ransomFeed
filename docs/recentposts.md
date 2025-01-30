@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-30 | [`Wallin & Klarich`](https://google.com/search?q=Wallin+%26+Klarich) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-30 | [`TRIVAD`](https://google.com/search?q=TRIVAD) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-30 | [`Plymouth Foam`](https://google.com/search?q=Plymouth+Foam) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-30 | [`Marshall & Bruce Printing`](https://google.com/search?q=Marshall+%26+Bruce+Printing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-09 | [`Izmocars Data Leak`](https://google.com/search?q=Izmocars+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-01-09 | [`CO-VER Power Technology SpA Data Leak`](https://google.com/search?q=CO-VER+Power+Technology+SpA+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-01-09 | [`hapsch.de`](https://google.com/search?q=hapsch.de) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2025-01-09 | [`awimc.com\$102.7M\USA\440GB\100% DISCLOSED`](https://google.com/search?q=awimc.com%5C%24102.7M%5CUSA%5C440GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
