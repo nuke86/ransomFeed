@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-30 | [`Plymouth Foam`](https://google.com/search?q=Plymouth+Foam) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-30 | [`Marshall & Bruce Printing`](https://google.com/search?q=Marshall+%26+Bruce+Printing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-30 | [`Johnston`](https://google.com/search?q=Johnston) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-29 | [`Commercial & Residential Management Group`](https://google.com/search?q=Commercial+%26+Residential+Management+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-09 | [`hapsch.de`](https://google.com/search?q=hapsch.de) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2025-01-09 | [`awimc.com\$102.7M\USA\440GB\100% DISCLOSED`](https://google.com/search?q=awimc.com%5C%24102.7M%5CUSA%5C440GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-09 | [`Fukoku Co. Ltd.`](https://google.com/search?q=Fukoku+Co.+Ltd.) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-01-08 | [`bendixengineering`](https://google.com/search?q=bendixengineering) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
