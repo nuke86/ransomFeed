@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-31 | [`City Of Beloit`](https://google.com/search?q=City+Of+Beloit) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-31 | [`Boldon James`](https://google.com/search?q=Boldon+James) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-31 | [`ttucorp.com\$27.6M\USA\1TB\&lt;1% DISCLOSED`](https://google.com/search?q=ttucorp.com%5C%2427.6M%5CUSA%5C1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-31 | [`jayaapparelgroup.com\$60.6M\USA\824GB\&lt;1% DISCLOSED`](https://google.com/search?q=jayaapparelgroup.com%5C%2460.6M%5CUSA%5C824GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-10 | [`Qualinet`](https://google.com/search?q=Qualinet) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-10 | [`amerplumb.com`](https://google.com/search?q=amerplumb.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-10 | [`www.mie.com.my`](https://google.com/search?q=www.mie.com.my) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-01-10 | [`xtremmedia.com`](https://google.com/search?q=xtremmedia.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
