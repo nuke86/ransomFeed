@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-01 | [`W*****e.com`](https://google.com/search?q=W%2A%2A%2A%2A%2Ae.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-01 | [`T*****p.com`](https://google.com/search?q=T%2A%2A%2A%2A%2Ap.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-01 | [`A**-****o.com`](https://google.com/search?q=A%2A%2A-%2A%2A%2A%2Ao.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-01 | [`CAMRIDGEPORT`](https://google.com/search?q=CAMRIDGEPORT) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-11 | [`Arun Estates`](https://google.com/search?q=Arun+Estates) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2025-01-11 | [`Brachot`](https://google.com/search?q=Brachot) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2025-01-11 | [`Avril Supermarché Santé`](https://google.com/search?q=Avril+Supermarch%C3%A9+Sant%C3%A9) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2025-01-11 | [`Mortgage Investors Group (MIG)`](https://google.com/search?q=Mortgage+Investors+Group+%28MIG%29) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
