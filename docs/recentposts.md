@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-01 | [`A**-****o.com`](https://google.com/search?q=A%2A%2A-%2A%2A%2A%2Ao.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-01 | [`CAMRIDGEPORT`](https://google.com/search?q=CAMRIDGEPORT) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-02-01 | [`payahmedabadechallan.org`](https://google.com/search?q=payahmedabadechallan.org) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-01 | [`midwaymetals.com.vn`](https://google.com/search?q=midwaymetals.com.vn) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-11 | [`Avril Supermarché Santé`](https://google.com/search?q=Avril+Supermarch%C3%A9+Sant%C3%A9) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2025-01-11 | [`Mortgage Investors Group (MIG)`](https://google.com/search?q=Mortgage+Investors+Group+%28MIG%29) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2025-01-11 | [`Bnext.nl`](https://google.com/search?q=Bnext.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2025-01-11 | [`Schuff Steel Company`](https://google.com/search?q=Schuff+Steel+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
