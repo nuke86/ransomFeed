@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-02 | [`usuhs.edu`](https://google.com/search?q=usuhs.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-02 | [`Four Eye Clinics`](https://google.com/search?q=Four+Eye+Clinics) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-02-02 | [`jpcgroupinc.com`](https://google.com/search?q=jpcgroupinc.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-02-02 | [`Civic Committee`](https://google.com/search?q=Civic+Committee) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-13 | [`Jim Thompson`](https://google.com/search?q=Jim+Thompson) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-12 | [`Astaphans`](https://google.com/search?q=Astaphans) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-12 | [`evasair.com`](https://google.com/search?q=evasair.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2025-01-12 | [`OmniRide (omniride.com)`](https://google.com/search?q=OmniRide+%28omniride.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
