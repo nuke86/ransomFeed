@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-02 | [`Gitlabs: Prasaga, HE2B, Kombinat`](https://google.com/search?q=Gitlabs%3A+Prasaga%2C+HE2B%2C+Kombinat) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-02 | [`Gitlabs: Professional Computer, X-Pans, Propulsion Academy AG`](https://google.com/search?q=Gitlabs%3A+Professional+Computer%2C+X-Pans%2C+Propulsion+Academy+AG) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-02 | [`usuhs.edu`](https://google.com/search?q=usuhs.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-02 | [`Four Eye Clinics`](https://google.com/search?q=Four+Eye+Clinics) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-13 | [`linebank.co.id`](https://google.com/search?q=linebank.co.id) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-13 | [`azpay.me - SOLD`](https://google.com/search?q=azpay.me+-+SOLD) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-13 | [`Jim Thompson`](https://google.com/search?q=Jim+Thompson) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-12 | [`Astaphans`](https://google.com/search?q=Astaphans) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
