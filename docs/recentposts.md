@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-03 | [`gruppozaccaria.it`](https://google.com/search?q=gruppozaccaria.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-03 | [`www.origene.com`](https://google.com/search?q=www.origene.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-03 | [`smithmidland.com`](https://google.com/search?q=smithmidland.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-03 | [`Jalaram Produce`](https://google.com/search?q=Jalaram+Produce) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-14 | [`lamejor.com.co`](https://google.com/search?q=lamejor.com.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`gelco-s-a.com.br`](https://google.com/search?q=gelco-s-a.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`candelasyasociados.es`](https://google.com/search?q=candelasyasociados.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-01-14 | [`Solaris Pharma`](https://google.com/search?q=Solaris+Pharma) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
