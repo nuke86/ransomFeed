@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-07 | [`sautech.edu`](https://google.com/search?q=sautech.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-07 | [`Gitlabs: Bolin Centre for Climate Research, X-lab group, Madia`](https://google.com/search?q=Gitlabs%3A+Bolin+Centre+for+Climate+Research%2C+X-lab+group%2C+Madia) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-07 | [`Gitlabs: hemio.de, SOLEIL, Devlion`](https://google.com/search?q=Gitlabs%3A+hemio.de%2C+SOLEIL%2C+Devlion) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-07 | [`Gitlabs: eConceptions, Top Systems, DIEM`](https://google.com/search?q=Gitlabs%3A+eConceptions%2C+Top+Systems%2C+DIEM) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-18 | [`Kassin & Carrow`](https://google.com/search?q=Kassin+%26+Carrow) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-18 | [`Kinseth Hospitality Companies `](https://google.com/search?q=Kinseth+Hospitality+Companies+) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-17 | [`Woodport Doors`](https://google.com/search?q=Woodport+Doors) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-17 | [`Douglas County, GA (DDCWSA.COM)`](https://google.com/search?q=Douglas+County%2C+GA+%28DDCWSA.COM%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
