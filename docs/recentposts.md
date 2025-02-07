@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-07 | [`Gitlabs: hemio.de, SOLEIL, Devlion`](https://google.com/search?q=Gitlabs%3A+hemio.de%2C+SOLEIL%2C+Devlion) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-07 | [`Gitlabs: eConceptions, Top Systems, DIEM`](https://google.com/search?q=Gitlabs%3A+eConceptions%2C+Top+Systems%2C+DIEM) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-07 | [`Toshapp.com`](https://google.com/search?q=Toshapp.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-07 | [`A2b-cargo.com`](https://google.com/search?q=A2b-cargo.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-17 | [`Woodport Doors`](https://google.com/search?q=Woodport+Doors) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-17 | [`Douglas County, GA (DDCWSA.COM)`](https://google.com/search?q=Douglas+County%2C+GA+%28DDCWSA.COM%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-17 | [`Access Capital Partners SA`](https://google.com/search?q=Access+Capital+Partners+SA) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-17 | [`communisis.com & paragon.world`](https://google.com/search?q=communisis.com+%26+paragon.world) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
