@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-07 | [`SmithDunn&amp;Co`](https://google.com/search?q=SmithDunn%26amp%3BCo) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-02-06 | [`zsattorneys.com`](https://google.com/search?q=zsattorneys.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-06 | [`northernresponse.com\$17.4M\Canada\366GB\&lt;1% DISCLOSED`](https://google.com/search?q=northernresponse.com%5C%2417.4M%5CCanada%5C366GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-06 | [`savoiesfoods.com\$18.2M\USA\95GB\&lt;1% DISCLOSED`](https://google.com/search?q=savoiesfoods.com%5C%2418.2M%5CUSA%5C95GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-17 | [`Lowe Engineers`](https://google.com/search?q=Lowe+Engineers) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-17 | [`The University of Oklahoma (ou.edu)`](https://google.com/search?q=The+University+of+Oklahoma+%28ou.edu%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-17 | [`peponline.org`](https://google.com/search?q=peponline.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-01-17 | [`Washington Gastroenterology (DHSWA.NET)`](https://google.com/search?q=Washington+Gastroenterology+%28DHSWA.NET%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
