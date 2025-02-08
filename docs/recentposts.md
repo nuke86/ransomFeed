@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-08 | [`G*********7.com`](https://google.com/search?q=G%2A%2A%2A%2A%2A%2A%2A%2A%2A7.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-08 | [`R******e.tw`](https://google.com/search?q=R%2A%2A%2A%2A%2A%2Ae.tw) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-08 | [`SAKAI SOUKEN Co.`](https://google.com/search?q=SAKAI+SOUKEN+Co.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-08 | [`M****s.info`](https://google.com/search?q=M%2A%2A%2A%2As.info) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-19 | [`TG3 Electronics`](https://google.com/search?q=TG3+Electronics) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-19 | [`pnp.co.za`](https://google.com/search?q=pnp.co.za) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-19 | [`betclic.com`](https://google.com/search?q=betclic.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2025-01-18 | [`J.G. Electrical Installations`](https://google.com/search?q=J.G.+Electrical+Installations) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
