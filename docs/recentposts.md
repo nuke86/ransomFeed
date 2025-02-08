@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-08 | [`SAKAI SOUKEN Co.`](https://google.com/search?q=SAKAI+SOUKEN+Co.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-08 | [`M****s.info`](https://google.com/search?q=M%2A%2A%2A%2As.info) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-08 | [`mistralsolutions.com`](https://google.com/search?q=mistralsolutions.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-02-08 | [`Casper&#39;s Truck Equipment`](https://google.com/search?q=Casper%26%2339%3Bs+Truck+Equipment) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-19 | [`betclic.com`](https://google.com/search?q=betclic.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-18 | [`J.G. Electrical Installations`](https://google.com/search?q=J.G.+Electrical+Installations) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-01-18 | [`Combined Pool and Spa`](https://google.com/search?q=Combined+Pool+and+Spa) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-01-18 | [`Real Tax`](https://google.com/search?q=Real+Tax) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
