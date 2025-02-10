@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-10 | [`ASRAM Medical College and Hospita`](https://google.com/search?q=ASRAM+Medical+College+and+Hospita) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-10 | [`Albright Institute`](https://google.com/search?q=Albright+Institute) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-09 | [`Handala New Telegram Channel`](https://google.com/search?q=Handala+New+Telegram+Channel) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-02-09 | [`Leading Edge Specialized Dentistry`](https://google.com/search?q=Leading+Edge+Specialized+Dentistry) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-21 | [`FAAB Invest Advisors Private Limited`](https://google.com/search?q=FAAB+Invest+Advisors+Private+Limited) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-01-21 | [`supremegroup.co.in`](https://google.com/search?q=supremegroup.co.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-21 | [`Nimbus Facility Services`](https://google.com/search?q=Nimbus+Facility+Services) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-01-21 | [`Bethany Hospital`](https://google.com/search?q=Bethany+Hospital) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
