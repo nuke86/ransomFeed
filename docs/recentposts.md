@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-10 | [`D-7 Roofing`](https://google.com/search?q=D-7+Roofing) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-10 | [`Recievership Specialists`](https://google.com/search?q=Recievership+Specialists) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-10 | [`abcapital.com.ph`](https://google.com/search?q=abcapital.com.ph) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-10 | [`Capital Cell Global (CCG)`](https://google.com/search?q=Capital+Cell+Global+%28CCG%29) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-21 | [`miedemaproduce.com`](https://google.com/search?q=miedemaproduce.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-21 | [`Solaris-pharma.com leakage`](https://google.com/search?q=Solaris-pharma.com+leakage) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-01-21 | [`malindoair.com`](https://google.com/search?q=malindoair.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2025-01-21 | [`Inaya Clinique`](https://google.com/search?q=Inaya+Clinique) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
