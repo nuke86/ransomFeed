@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-11 | [`sdfab.com`](https://google.com/search?q=sdfab.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-11 | [`kaplanstahler.com`](https://google.com/search?q=kaplanstahler.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-11 | [`sole technology`](https://google.com/search?q=sole+technology) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-02-11 | [`primesourcestaffing.com`](https://google.com/search?q=primesourcestaffing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-22 | [`Christian Community Aid`](https://google.com/search?q=Christian+Community+Aid) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-22 | [`www.americanstandard-us.com`](https://google.com/search?q=www.americanstandard-us.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-22 | [`precisionmechsd.com`](https://google.com/search?q=precisionmechsd.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-01-22 | [`whychoosebw.com`](https://google.com/search?q=whychoosebw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
