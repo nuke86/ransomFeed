@@ -29,15 +29,185 @@
       <p id="countdownMsg" style="font-size: 1rem; font-weight: 600; color: #666;"></p>
     </div>
   </div>
+  
   <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
   <script>
-    async function computeHash(m){if(window.crypto?.subtle?.digest){const b=new TextEncoder().encode(m);const h=await window.crypto.subtle.digest("SHA-256",b);return Array.from(new Uint8Array(h)).map(x=>x.toString(16).padStart(2,"0")).join("")}else if(typeof sha256==="function"){return sha256(m)}else{throw new Error("No SHA-256 function available.")}}
-    async function measureHashRate(s=2000){const c="benchmark";const st=performance.now();for(let i=0;i<s;i++){await computeHash(c+i)}const e=performance.now();return s/((e-st)/1000)}
-    async function solveChallenge(ch,d,o){let n=0;const p="0".repeat(d);while(true){const c=ch+n;const h=await computeHash(c);if(h.startsWith(p)){return n}n++;if(n%1000===0){o(n);await new Promise(r=>setTimeout(r,0))}}}
-    function startCountdownAndRedirect(minS,maxS,u){const r=Math.floor(Math.random()*(maxS-minS+1))+minS;const c=document.getElementById("countdownMsg");c.innerText=`You will be redirected to the blog in ${r} seconds...`;const i=setInterval(()=>{const d=+c.innerText.match(/\d+/);const nd=d-1;c.innerText=`You will be redirected to the blog in ${nd} seconds...`;if(nd<=0){clearInterval(i);window.location.href=u}},1000)}
-    async function performChallenge(){const t=document.getElementById("title");const de=document.getElementById("description");const et=document.getElementById("eta");const co=document.getElementById("countdownMsg");try{const gr=await fetch("/challenge.php",{method:"GET"});if(!gr.ok){throw new Error("Error fetching challenge: "+gr.status)}const chData=await gr.json();if(chData.error){if(chData.error==="User already verified."){t.innerText="Already Verified!";de.innerText="No need to solve the challenge.";et.innerText="";startCountdownAndRedirect(5,14,"/");return}else{throw new Error(chData.error)}}const{challenge,difficulty}=chData;de.innerText="Measuring hashing speed...";const hr=await measureHashRate(2000);const eT=Math.pow(16,difficulty);let eTS=eT/hr;de.innerText="Solving challenge, please wait...";et.innerText=`Estimated time to solve: ~${Math.max(1,eTS.toFixed(1))}s`;const sT=performance.now();const nn=await solveChallenge(challenge,difficulty,(cn)=>{const es=(performance.now()-sT)/1000;const fD=Math.min(1,cn/eT);const l=(1-fD)*eTS-es;if(l>0){et.innerText=`Estimated time left: ~${l.toFixed(1)}s`}else{et.innerText="Still working, please wait..."}});de.innerText="Submitting solution, please wait...";et.innerText="";const po=await fetch("/challenge.php",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({nonce:nn})});if(!po.ok){throw new Error("Error submitting solution: "+po.status)}const r=await po.json();if(r.success){t.innerText="Verification Complete!";de.innerText="Your connection is verified.";startCountdownAndRedirect(5,14,"/")}else{throw new Error(r.error||"Challenge failed")}}catch(e){t.innerText="Error";de.innerText=e.message;et.innerText="";co.innerText="Unable to complete challenge."}}
-    document.addEventListener("DOMContentLoaded",performChallenge);
+    async function computeHash(m) {
+      if (window.crypto?.subtle?.digest) {
+        const b = new TextEncoder().encode(m);
+        const h = await window.crypto.subtle.digest("SHA-256", b);
+        return Array.from(new Uint8Array(h)).map(x => x.toString(16).padStart(2, "0")).join("");
+      } else if (typeof sha256 === "function") {
+        return sha256(m);
+      } else {
+        throw new Error("No SHA-256 function available.");
+      }
+    }
+    async function measureHashRate(s = 2000) {
+      const c = "benchmark";
+      const st = performance.now();
+      for (let i = 0; i < s; i++) {
+        await computeHash(c + i);
+      }
+      const e = performance.now();
+      return s / ((e - st) / 1000);
+    }
+    async function solveChallengeWithWorker(challenge, difficulty, progressCallback) {
+      return new Promise((resolve, reject) => {
+        const workerCode = `
+          importScripts("https://cdnjs.cloudflare.com/ajax/libs/js-sha256/0.9.0/sha256.min.js");
+          async function computeHash(m) {
+            if (self.crypto?.subtle?.digest) {
+              const data = new TextEncoder().encode(m);
+              const digest = await self.crypto.subtle.digest("SHA-256", data);
+              return Array.from(new Uint8Array(digest)).map(x => x.toString(16).padStart(2, "0")).join("");
+            } else if (typeof sha256 === "function") {
+              return sha256(m);
+            } else {
+              throw new Error("No SHA-256 function available.");
+            }
+          }
+          self.onmessage = async function(e) {
+            const { challenge, difficulty } = e.data;
+            let n = 0;
+            const prefix = "0".repeat(difficulty);
+            while (true) {
+              const currentStr = challenge + n;
+              let hash;
+              try {
+                hash = await computeHash(currentStr);
+              } catch (err) {
+                self.postMessage({ error: err.message });
+                return;
+              }
+              if (hash.startsWith(prefix)) {
+                self.postMessage({ nonce: n, finished: true });
+                return;
+              }
+              n++;
+              if (n % 1000 === 0) {
+                self.postMessage({ iteration: n });
+                await new Promise(r => setTimeout(r, 0));
+              }
+            }
+          };
+        `;
+        const blob = new Blob([workerCode], { type: "application/javascript" });
+        const workerUrl = URL.createObjectURL(blob);
+        const worker = new Worker(workerUrl);
+        worker.onmessage = function(event) {
+          const data = event.data;
+          if (data.error) {
+            reject(new Error(data.error));
+            worker.terminate();
+          } else if (data.finished) {
+            resolve(data.nonce);
+            worker.terminate();
+          } else if (data.iteration) {
+            progressCallback(data.iteration);
+          }
+        };
+        worker.onerror = function(err) {
+          reject(err);
+          worker.terminate();
+        };
+        worker.postMessage({ challenge, difficulty });
+      });
+    }
+    function getRedirectUrl() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const target = urlParams.get("target");
+      if (target) return target;
+      if (document.referrer) return document.referrer;
+      return window.location.href;
+    }
+    function startCountdownAndRedirect(minS, maxS, url) {
+      const targetUrl = url || getRedirectUrl();
+      const r = Math.floor(Math.random() * (maxS - minS + 1)) + minS;
+      const c = document.getElementById("countdownMsg");
+      c.innerText = `You will be redirected in ${r} seconds...`;
+      const i = setInterval(() => {
+        const d = +c.innerText.match(/\d+/);
+        const nd = d - 1;
+        c.innerText = `You will be redirected in ${nd} seconds...`;
+        if (nd <= 0) {
+          clearInterval(i);
+          window.location.href = targetUrl;
+        }
+      }, 1000);
+    }
+    async function performChallenge() {
+      const t = document.getElementById("title");
+      const de = document.getElementById("description");
+      const et = document.getElementById("eta");
+      const co = document.getElementById("countdownMsg");
+      try {
+        const gr = await fetch("/challenge.php", { method: "GET" });
+        if (!gr.ok) {
+          throw new Error("Error fetching challenge: " + gr.status);
+        }
+        const chData = await gr.json();
+        if (chData.error) {
+          if (chData.error === "User already verified.") {
+            t.innerText = "Already Verified!";
+            de.innerText = "No need to solve the challenge.";
+            et.innerText = "";
+            startCountdownAndRedirect(5, 14);
+            return;
+          } else {
+            throw new Error(chData.error);
+          }
+        }
+        const { challenge, difficulty } = chData;
+        de.innerText = "Measuring hashing speed...";
+        const hr = await measureHashRate(2000);
+        const expectedIterations = Math.pow(16, difficulty);
+        const estimatedTotalTime = expectedIterations / hr;
+        de.innerText = "Solving challenge, please wait...";
+        et.innerText = `Estimated time to solve: ~${Math.max(1, estimatedTotalTime.toFixed(1))}s`;
+        const startTime = performance.now();
+        const nonce = await solveChallengeWithWorker(challenge, difficulty, (currentIteration) => {
+          const elapsed = (performance.now() - startTime) / 1000;
+          if (currentIteration > 0) {
+            const currentRate = currentIteration / elapsed;
+            const remainingIterations = expectedIterations - currentIteration;
+            if (remainingIterations > 0) {
+              const remainingTime = remainingIterations / currentRate;
+              et.innerText = `Estimated time left: ~${remainingTime.toFixed(1)}s`;
+            } else {
+              et.innerText = "Almost done...";
+            }
+          } else {
+            et.innerText = `Estimated time left: ~${estimatedTotalTime.toFixed(1)}s`;
+          }
+        });
+        de.innerText = "Submitting solution, please wait...";
+        et.innerText = "";
+        await new Promise(resolve => setTimeout(resolve, 200));
+        const po = await fetch("/challenge.php", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ nonce: nonce })
+        });
+        if (!po.ok) {
+          throw new Error("Error submitting solution: " + po.status);
+        }
+        const r = await po.json();
+        if (r.success) {
+          t.innerText = "Verification Complete!";
+          de.innerText = "Your connection is verified.";
+          startCountdownAndRedirect(5, 14);
+        } else {
+          throw new Error(r.error || "Challenge failed");
+        }
+      } catch (e) {
+        t.innerText = "Error";
+        de.innerText = e.message;
+        et.innerText = "";
+        co.innerText = "Unable to complete challenge.";
+      }
+    }
+    document.addEventListener("DOMContentLoaded", performChallenge);
   </script>
 </body>
 </html>
-
