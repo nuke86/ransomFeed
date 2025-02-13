@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-13 | [`http://thermaseal.net`](https://google.com/search?q=http%3A%2F%2Fthermaseal.net) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2025-02-13 | [`Tie Down Engineering`](https://google.com/search?q=Tie+Down+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-13 | [`Shinn Fu Company of America`](https://google.com/search?q=Shinn+Fu+Company+of+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-13 | [`ROCK SOLID Stabilization & Reclamation`](https://google.com/search?q=ROCK+SOLID+Stabilization+%26+Reclamation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-24 | [`ORU Mabee Center`](https://google.com/search?q=ORU+Mabee+Center) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-24 | [`ELTEK Group (eltekgroup.com)`](https://google.com/search?q=ELTEK+Group+%28eltekgroup.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-24 | [`De La Salle High School (dlshs.org)`](https://google.com/search?q=De+La+Salle+High+School+%28dlshs.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-01-24 | [`icicibank.com`](https://google.com/search?q=icicibank.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
