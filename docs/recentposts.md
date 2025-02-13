@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-13 | [`Aspire Rural Health System`](https://google.com/search?q=Aspire+Rural+Health+System) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-13 | [`Financial Services of America, Inc.`](https://google.com/search?q=Financial+Services+of+America%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-13 | [`Borel CPA's L.L.C`](https://google.com/search?q=Borel+CPA%27s+L.L.C) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-13 | [`Dain, Torpy, Le Ray, Wiest and Garner, P.C.`](https://google.com/search?q=Dain%2C+Torpy%2C+Le+Ray%2C+Wiest+and+Garner%2C+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-25 | [`Keepz`](https://google.com/search?q=Keepz) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-01-25 | [`DataSociete`](https://google.com/search?q=DataSociete) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-01-25 | [`envirosep.com`](https://google.com/search?q=envirosep.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2025-01-24 | [`PrimoTicketing`](https://google.com/search?q=PrimoTicketing) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
