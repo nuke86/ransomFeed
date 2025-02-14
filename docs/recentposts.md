@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-14 | [`Shields Facilities Maintenance`](https://google.com/search?q=Shields+Facilities+Maintenance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-14 | [`Ball, LLP`](https://google.com/search?q=Ball%2C+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-14 | [`R Molds Inc`](https://google.com/search?q=R+Molds+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-14 | [`Nash Brothers Construction`](https://google.com/search?q=Nash+Brothers+Construction) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-27 | [`International AIDS Vaccine Initiative (iavi.org)`](https://google.com/search?q=International+AIDS+Vaccine+Initiative+%28iavi.org%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-27 | [`Weeks, Brucker &#038; Coleman, Ltd - Legal Services`](https://google.com/search?q=Weeks%2C+Brucker+%26%23038%3B+Coleman%2C+Ltd+-+Legal+Services) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-01-26 | [`AIshu, Eshoo`](https://google.com/search?q=AIshu%2C+Eshoo) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-01-26 | [`Let’s Secure Insurance`](https://google.com/search?q=Let%E2%80%99s+Secure+Insurance) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
