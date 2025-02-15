@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-15 | [`ekvallbyrne.com`](https://google.com/search?q=ekvallbyrne.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-15 | [`krmcustomhomes.com`](https://google.com/search?q=krmcustomhomes.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-15 | [`laderalending.com`](https://google.com/search?q=laderalending.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-15 | [`minnesotaexteriors.com`](https://google.com/search?q=minnesotaexteriors.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-29 | [`Acoustiblok`](https://google.com/search?q=Acoustiblok) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-01-29 | [`BBLAWFIRM`](https://google.com/search?q=BBLAWFIRM) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-01-28 | [`lnetwork`](https://google.com/search?q=lnetwork) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-01-28 | [`metalurgica roma`](https://google.com/search?q=metalurgica+roma) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
