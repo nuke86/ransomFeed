@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-15 | [`laderalending.com`](https://google.com/search?q=laderalending.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-15 | [`minnesotaexteriors.com`](https://google.com/search?q=minnesotaexteriors.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-14 | [`rogerspetro.com`](https://google.com/search?q=rogerspetro.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-14 | [`sundanceliving.com`](https://google.com/search?q=sundanceliving.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-28 | [`lnetwork`](https://google.com/search?q=lnetwork) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-01-28 | [`metalurgica roma`](https://google.com/search?q=metalurgica+roma) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-01-28 | [`broward.edu`](https://google.com/search?q=broward.edu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-01-28 | [`Carthage Police Department`](https://google.com/search?q=Carthage+Police+Department) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
