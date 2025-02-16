@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-16 | [`www.rowetactical.com`](https://google.com/search?q=www.rowetactical.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-16 | [`www.transcend-info.com`](https://google.com/search?q=www.transcend-info.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-16 | [`www.naga.ae`](https://google.com/search?q=www.naga.ae) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-16 | [`www.imgenterprises.com`](https://google.com/search?q=www.imgenterprises.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-30 | [`Marshall & Bruce Printing`](https://google.com/search?q=Marshall+%26+Bruce+Printing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-30 | [`Johnston`](https://google.com/search?q=Johnston) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-29 | [`Commercial & Residential Management Group`](https://google.com/search?q=Commercial+%26+Residential+Management+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-01-29 | [`SCV Med Group`](https://google.com/search?q=SCV+Med+Group) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
