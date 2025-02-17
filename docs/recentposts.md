@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-17 | [`savoiesfoods.com\$18.2M\USA\95GB\100% DISCLOSED`](https://google.com/search?q=savoiesfoods.com%5C%2418.2M%5CUSA%5C95GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-17 | [`Heritage South Credit Union`](https://google.com/search?q=Heritage+South+Credit+Union) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-02-17 | [`annegrady.org`](https://google.com/search?q=annegrady.org) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-02-17 | [`WhoHire`](https://google.com/search?q=WhoHire) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-31 | [`ttucorp.com\$27.6M\USA\1TB\&lt;1% DISCLOSED`](https://google.com/search?q=ttucorp.com%5C%2427.6M%5CUSA%5C1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-31 | [`jayaapparelgroup.com\$60.6M\USA\824GB\&lt;1% DISCLOSED`](https://google.com/search?q=jayaapparelgroup.com%5C%2460.6M%5CUSA%5C824GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-31 | [`johnpaulrichard.com\$60M\USA\985GB\&lt;1% DISCLOSED`](https://google.com/search?q=johnpaulrichard.com%5C%2460M%5CUSA%5C985GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-01-31 | [`vsstransportationgroup.com\$54.5M\USA\522GB\&lt;1% DISCLOSED`](https://google.com/search?q=vsstransportationgroup.com%5C%2454.5M%5CUSA%5C522GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
