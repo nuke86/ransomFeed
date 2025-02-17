@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-17 | [`https://www.dapope.com/`](https://google.com/search?q=https%3A%2F%2Fwww.dapope.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2025-02-17 | [`ssmcoop.com\$22.5M\USA\26GB\&lt;1% DISCLOSED`](https://google.com/search?q=ssmcoop.com%5C%2422.5M%5CUSA%5C26GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-17 | [`mgainnovation.com\$30.9M\USA\215GB\100% DISCLOSED`](https://google.com/search?q=mgainnovation.com%5C%2430.9M%5CUSA%5C215GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-17 | [`northernresponse.com\$17.4M\Canada\366GB\100% DISCLOSED`](https://google.com/search?q=northernresponse.com%5C%2417.4M%5CCanada%5C366GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-31 | [`Turning Leaf (TURNINGLEAF.local)`](https://google.com/search?q=Turning+Leaf+%28TURNINGLEAF.local%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-31 | [`Heart to Heart Hospice`](https://google.com/search?q=Heart+to+Heart+Hospice) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-31 | [`City Of Beloit`](https://google.com/search?q=City+Of+Beloit) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-01-31 | [`Boldon James`](https://google.com/search?q=Boldon+James) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
