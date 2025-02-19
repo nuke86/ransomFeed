@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-19 | [`uniekinc.com\$37.5M\USA\1.8TB\&lt;1% DISCLOSED`](https://google.com/search?q=uniekinc.com%5C%2437.5M%5CUSA%5C1.8TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-19 | [`midwayimporting.com\$43.7M\USA\915GB\&lt;1% DISCLOSED`](https://google.com/search?q=midwayimporting.com%5C%2443.7M%5CUSA%5C915GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-19 | [`revitalash.com\$21.5M\USA\1.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=revitalash.com%5C%2421.5M%5CUSA%5C1.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-18 | [`bestbrands.com\$25.5M\USA\659GB\&lt;1% DISCLOSED`](https://google.com/search?q=bestbrands.com%5C%2425.5M%5CUSA%5C659GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-02 | [`Eascon`](https://google.com/search?q=Eascon) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-02-01 | [`Utilissimo Transportes`](https://google.com/search?q=Utilissimo+Transportes) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-02-01 | [`GATTELLI SpA`](https://google.com/search?q=GATTELLI+SpA) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-02-01 | [`Technico`](https://google.com/search?q=Technico) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
