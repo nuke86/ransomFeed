@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-19 | [`almostfamousclothing.com\$183M\USA\375GB\&lt;1% DISCLOSED`](https://google.com/search?q=almostfamousclothing.com%5C%24183M%5CUSA%5C375GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-19 | [`uniekinc.com\$37.5M\USA\1.8TB\&lt;1% DISCLOSED`](https://google.com/search?q=uniekinc.com%5C%2437.5M%5CUSA%5C1.8TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-19 | [`midwayimporting.com\$43.7M\USA\915GB\&lt;1% DISCLOSED`](https://google.com/search?q=midwayimporting.com%5C%2443.7M%5CUSA%5C915GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-19 | [`revitalash.com\$21.5M\USA\1.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=revitalash.com%5C%2421.5M%5CUSA%5C1.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-02 | [`Falcon Gaming`](https://google.com/search?q=Falcon+Gaming) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-02-02 | [`Eascon`](https://google.com/search?q=Eascon) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-02-01 | [`Utilissimo Transportes`](https://google.com/search?q=Utilissimo+Transportes) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-02-01 | [`GATTELLI SpA`](https://google.com/search?q=GATTELLI+SpA) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
