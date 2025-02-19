@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-19 | [`www.macmed.com`](https://google.com/search?q=www.macmed.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-19 | [`Supreme Administrative Court of Bulgaria`](https://google.com/search?q=Supreme+Administrative+Court+of+Bulgaria) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-02-19 | [`www.macter.com`](https://google.com/search?q=www.macter.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-19 | [`Alabama Ophthalmology Associates`](https://google.com/search?q=Alabama+Ophthalmology+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-02 | [`Gitlabs: Professional Computer, X-Pans, Propulsion Academy AG`](https://google.com/search?q=Gitlabs%3A+Professional+Computer%2C+X-Pans%2C+Propulsion+Academy+AG) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-02 | [`usuhs.edu`](https://google.com/search?q=usuhs.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-02 | [`Four Eye Clinics`](https://google.com/search?q=Four+Eye+Clinics) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2025-02-02 | [`jpcgroupinc.com`](https://google.com/search?q=jpcgroupinc.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
