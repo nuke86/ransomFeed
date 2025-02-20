@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-20 | [`www.riverdale.edu`](https://google.com/search?q=www.riverdale.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-20 | [`www.mwmechanicalinc.com`](https://google.com/search?q=www.mwmechanicalinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-20 | [`www.alphamedctr.com`](https://google.com/search?q=www.alphamedctr.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-20 | [`www.ccttechnologies.com`](https://google.com/search?q=www.ccttechnologies.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-03 | [`Rossi Real Estate (ROSSIDG.LOCAL)`](https://google.com/search?q=Rossi+Real+Estate+%28ROSSIDG.LOCAL%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-03 | [`Zamzow's`](https://google.com/search?q=Zamzow%27s) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-03 | [`Pineland community service board`](https://google.com/search?q=Pineland+community+service+board) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-02-03 | [`Evidn Data Leak`](https://google.com/search?q=Evidn+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
