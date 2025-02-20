@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-20 | [`newhorizonsbaking.com\$163M\USA\455GB\&lt;1% DISCLOSED`](https://google.com/search?q=newhorizonsbaking.com%5C%24163M%5CUSA%5C455GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-20 | [`www.pransystems.com`](https://google.com/search?q=www.pransystems.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-20 | [`californiaclingpeaches.com`](https://google.com/search?q=californiaclingpeaches.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-02-20 | [`www.phdental.com`](https://google.com/search?q=www.phdental.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-03 | [`www.origene.com`](https://google.com/search?q=www.origene.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-03 | [`smithmidland.com`](https://google.com/search?q=smithmidland.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-03 | [`Jalaram Produce`](https://google.com/search?q=Jalaram+Produce) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-03 | [`Delta Screen & Filtration ()`](https://google.com/search?q=Delta+Screen+%26+Filtration+%28%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
