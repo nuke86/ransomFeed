@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-21 | [`haleycomfort.com`](https://google.com/search?q=haleycomfort.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-21 | [`eaglepost.com`](https://google.com/search?q=eaglepost.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-20 | [`gilcar.co`](https://google.com/search?q=gilcar.co) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-20 | [`www.okddsi.net`](https://google.com/search?q=www.okddsi.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-03 | [`[EVIDANCE] AIshu, Eshoo`](https://google.com/search?q=%5BEVIDANCE%5D+AIshu%2C+Eshoo) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-02-03 | [`DPC Development`](https://google.com/search?q=DPC+Development) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-03 | [`www.wongfleming.com`](https://google.com/search?q=www.wongfleming.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-03 | [`gruppozaccaria.it`](https://google.com/search?q=gruppozaccaria.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
