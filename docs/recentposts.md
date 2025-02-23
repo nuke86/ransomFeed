@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-23 | [`NimuSoft`](https://google.com/search?q=NimuSoft) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`DR.Claims FL LLC`](https://google.com/search?q=DR.Claims+FL+LLC) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`EzyLegal`](https://google.com/search?q=EzyLegal) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-22 | [`SPEED Co`](https://google.com/search?q=SPEED+Co) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-05 | [`Dash Business`](https://google.com/search?q=Dash+Business) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-05 | [`Hall Chadwick`](https://google.com/search?q=Hall+Chadwick) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-05 | [`NESCTC Security Services`](https://google.com/search?q=NESCTC+Security+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-02-05 | [`annegrady.org`](https://google.com/search?q=annegrady.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
