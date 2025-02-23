@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-23 | [`EzyLegal`](https://google.com/search?q=EzyLegal) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-22 | [`SPEED Co`](https://google.com/search?q=SPEED+Co) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-22 | [`CCOO Servicios`](https://google.com/search?q=CCOO+Servicios) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-22 | [`alleghenybradford.com`](https://google.com/search?q=alleghenybradford.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-05 | [`NESCTC Security Services`](https://google.com/search?q=NESCTC+Security+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-05 | [`annegrady.org`](https://google.com/search?q=annegrady.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-05 | [`www.aymcdonald.com`](https://google.com/search?q=www.aymcdonald.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-05 | [`Mid-State Machine & Fabricating Corp`](https://google.com/search?q=Mid-State+Machine+%26+Fabricating+Corp) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
