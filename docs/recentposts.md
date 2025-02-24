@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-24 | [`regulvar.com\$253.5M\Canada\3.6TB\&lt;1% DISCLOSED`](https://google.com/search?q=regulvar.com%5C%24253.5M%5CCanada%5C3.6TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-24 | [`[EVIDENCE] Aishu, Eshoo`](https://google.com/search?q=%5BEVIDENCE%5D+Aishu%2C+Eshoo) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-02-24 | [`stanleyconsultants.com\$190.5M\USA\388GB\&lt;1% DISCLOSED`](https://google.com/search?q=stanleyconsultants.com%5C%24190.5M%5CUSA%5C388GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-24 | [`Gpstech2007.com`](https://google.com/search?q=Gpstech2007.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-07 | [`Gitlabs: hemio.de, SOLEIL, Devlion`](https://google.com/search?q=Gitlabs%3A+hemio.de%2C+SOLEIL%2C+Devlion) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-07 | [`Gitlabs: eConceptions, Top Systems, DIEM`](https://google.com/search?q=Gitlabs%3A+eConceptions%2C+Top+Systems%2C+DIEM) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-07 | [`Toshapp.com`](https://google.com/search?q=Toshapp.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-02-07 | [`A2b-cargo.com`](https://google.com/search?q=A2b-cargo.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
