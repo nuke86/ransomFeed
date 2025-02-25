@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-25 | [`Pulmonary Physicians of South Florida Clinics - Data security breach!`](https://google.com/search?q=Pulmonary+Physicians+of+South+Florida+Clinics+-+Data+security+breach%21) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-02-25 | [`denbyco.co.uk`](https://google.com/search?q=denbyco.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-25 | [`compactmould.com`](https://google.com/search?q=compactmould.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-25 | [`chfindustries.com\$253.8M\USA\2.5TB\&lt;1% DISCLOSED`](https://google.com/search?q=chfindustries.com%5C%24253.8M%5CUSA%5C2.5TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-08 | [`Medical Reports`](https://google.com/search?q=Medical+Reports) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-02-08 | [`Lexington Electric `](https://google.com/search?q=Lexington+Electric+) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-07 | [`Wireless Solutions (Morris.Domain)`](https://google.com/search?q=Wireless+Solutions+%28Morris.Domain%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-07 | [`Gitlabs: Chalmers tekniska högskola, Fligno, 3SS`](https://google.com/search?q=Gitlabs%3A+Chalmers+tekniska+h%C3%B6gskola%2C+Fligno%2C+3SS) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
