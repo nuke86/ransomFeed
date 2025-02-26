@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-26 | [`alphabaking.com\$421.9M\USA\1TB\&lt;1% DISCLOSED`](https://google.com/search?q=alphabaking.com%5C%24421.9M%5CUSA%5C1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-26 | [`www.confabca.com`](https://google.com/search?q=www.confabca.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-26 | [`www.bwdtechnology.com`](https://google.com/search?q=www.bwdtechnology.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-26 | [`hgmlegal.com`](https://google.com/search?q=hgmlegal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-09 | [`Hpisd.org`](https://google.com/search?q=Hpisd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-09 | [`wwcsd.net`](https://google.com/search?q=wwcsd.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-09 | [`Silverado Contractors`](https://google.com/search?q=Silverado+Contractors) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-09 | [`Gitlabs: Universitatea Politehnica din Bucuresti, Maxvy Technologies Pvt, iRidge Inc.`](https://google.com/search?q=Gitlabs%3A+Universitatea+Politehnica+din+Bucuresti%2C+Maxvy+Technologies+Pvt%2C+iRidge+Inc.) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
