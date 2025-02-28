@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-28 | [`www.journeyoilfield.net`](https://google.com/search?q=www.journeyoilfield.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-28 | [`www.ateliermonarque.com`](https://google.com/search?q=www.ateliermonarque.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-28 | [`www.obrienavocats.qc.ca`](https://google.com/search?q=www.obrienavocats.qc.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-28 | [`www.cmsg.cl`](https://google.com/search?q=www.cmsg.cl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-12 | [`MICRO MANUFACTRING`](https://google.com/search?q=MICRO+MANUFACTRING) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-02-12 | [`Fastighetsservice AB`](https://google.com/search?q=Fastighetsservice+AB) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-12 | [`Omni Fiber LLC`](https://google.com/search?q=Omni+Fiber+LLC) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-02-12 | [`EAC Consulting`](https://google.com/search?q=EAC+Consulting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
