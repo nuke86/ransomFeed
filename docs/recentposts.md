@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-28 | [`www.cmsg.cl`](https://google.com/search?q=www.cmsg.cl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-28 | [`Inversiones Clinica Del Meta SA`](https://google.com/search?q=Inversiones+Clinica+Del+Meta+SA) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-02-28 | [`www.amerasphalt.com`](https://google.com/search?q=www.amerasphalt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-28 | [`www.emeryair.net`](https://google.com/search?q=www.emeryair.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-12 | [`EAC Consulting`](https://google.com/search?q=EAC+Consulting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-12 | [`Cold Storage Manufacturing`](https://google.com/search?q=Cold+Storage+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-11 | [`Baltimore Country Club`](https://google.com/search?q=Baltimore+Country+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-11 | [`TMC`](https://google.com/search?q=TMC) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
