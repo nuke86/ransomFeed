@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-02 | [`newhorizonsbaking.com\$163M\USA\455GB\100% DISCLOSED`](https://google.com/search?q=newhorizonsbaking.com%5C%24163M%5CUSA%5C455GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-02 | [`neatem.fr - Update!`](https://google.com/search?q=neatem.fr+-+Update%21) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-03-02 | [`neatem.fr`](https://google.com/search?q=neatem.fr) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-03-02 | [`South Georgia Accounting Services`](https://google.com/search?q=South+Georgia+Accounting+Services) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-14 | [`Nash Brothers Construction`](https://google.com/search?q=Nash+Brothers+Construction) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-13 | [`Nippon Steel USA`](https://google.com/search?q=Nippon+Steel+USA) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-13 | [`Aspire Rural Health System`](https://google.com/search?q=Aspire+Rural+Health+System) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-02-13 | [`Financial Services of America, Inc.`](https://google.com/search?q=Financial+Services+of+America%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
