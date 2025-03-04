@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-04 | [`Layfield and Borel CPA's L.L.C`](https://google.com/search?q=Layfield+and+Borel+CPA%27s+L.L.C) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-04 | [`Brien, Inc.`](https://google.com/search?q=Brien%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-04 | [`Garner, P.C.`](https://google.com/search?q=Garner%2C+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-04 | [`Legal Aid Society of Salt Lake`](https://google.com/search?q=Legal+Aid+Society+of+Salt+Lake) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-16 | [`www.transcend-info.com`](https://google.com/search?q=www.transcend-info.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-16 | [`www.naga.ae`](https://google.com/search?q=www.naga.ae) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-16 | [`www.imgenterprises.com`](https://google.com/search?q=www.imgenterprises.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-15 | [`saulttribe.com/kewadin.com`](https://google.com/search?q=saulttribe.com%2Fkewadin.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
