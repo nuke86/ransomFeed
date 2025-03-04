@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-04 | [`Ewald Consulting`](https://google.com/search?q=Ewald+Consulting) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-04 | [`steelerubber.com\$17.9M\USA\116GB\100% DISCLOSED`](https://google.com/search?q=steelerubber.com%5C%2417.9M%5CUSA%5C116GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-04 | [`almostfamousclothing.com\$183M\USA\375GB\100% DISCLOSED`](https://google.com/search?q=almostfamousclothing.com%5C%24183M%5CUSA%5C375GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-04 | [`ssmcoop.com\$22.5M\USA\26GB\100% DISCLOSED`](https://google.com/search?q=ssmcoop.com%5C%2422.5M%5CUSA%5C26GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-15 | [`www.solardatasystems.com`](https://google.com/search?q=www.solardatasystems.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-15 | [`www.310tempering.com`](https://google.com/search?q=www.310tempering.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-15 | [`www.colacouronnelocations.com`](https://google.com/search?q=www.colacouronnelocations.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-15 | [`Northeast Delta Human Services Authority`](https://google.com/search?q=Northeast+Delta+Human+Services+Authority) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
