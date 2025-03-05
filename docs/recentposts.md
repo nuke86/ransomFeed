@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-05 | [`familychc.com`](https://google.com/search?q=familychc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-05 | [`www.sunsweet.com`](https://google.com/search?q=www.sunsweet.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-05 | [`www.cda.be`](https://google.com/search?q=www.cda.be) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-05 | [`Best Collateral, Inc.`](https://google.com/search?q=Best+Collateral%2C+Inc.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-17 | [`Logix Corporate Solutions`](https://google.com/search?q=Logix+Corporate+Solutions) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-17 | [`Enfin`](https://google.com/search?q=Enfin) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-16 | [`Obex Medical`](https://google.com/search?q=Obex+Medical) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-02-16 | [`askgs.ma`](https://google.com/search?q=askgs.ma) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
