@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-05 | [`escada.com`](https://google.com/search?q=escada.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-05 | [`www.black-star.fr`](https://google.com/search?q=www.black-star.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-05 | [`familychc.com`](https://google.com/search?q=familychc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-05 | [`www.sunsweet.com`](https://google.com/search?q=www.sunsweet.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-17 | [`annegrady.org`](https://google.com/search?q=annegrady.org) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-02-17 | [`WhoHire`](https://google.com/search?q=WhoHire) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-17 | [`Logix Corporate Solutions`](https://google.com/search?q=Logix+Corporate+Solutions) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-02-17 | [`Enfin`](https://google.com/search?q=Enfin) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
