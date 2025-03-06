@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-06 | [`electrocraft.com\$190.1M\USA\477GB\100% DISCLOSED`](https://google.com/search?q=electrocraft.com%5C%24190.1M%5CUSA%5C477GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-06 | [`holtcat.com\$1B\USA\868GB\100% DISCLOSED`](https://google.com/search?q=holtcat.com%5C%241B%5CUSA%5C868GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-06 | [`New .Gov ?`](https://google.com/search?q=New+.Gov+%3F) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-06 | [`S********e.com`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A%2A%2Ae.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-18 | [`Bushmans`](https://google.com/search?q=Bushmans) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-17 | [`Bulldog Oilfield Services`](https://google.com/search?q=Bulldog+Oilfield+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-17 | [`The Townsley Law Firm Information`](https://google.com/search?q=The+Townsley+Law+Firm+Information) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-17 | [`https://www.dapope.com/`](https://google.com/search?q=https%3A%2F%2Fwww.dapope.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
