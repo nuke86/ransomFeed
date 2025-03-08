@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-08 | [`logic insectes`](https://google.com/search?q=logic+insectes) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-08 | [`Grafitec`](https://google.com/search?q=Grafitec) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-08 | [`synaptic.co.tz`](https://google.com/search?q=synaptic.co.tz) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-08 | [`www.jpwindustries.com`](https://google.com/search?q=www.jpwindustries.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-20 | [`ehdd.com`](https://google.com/search?q=ehdd.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-02-20 | [`www.copleystoughton.com`](https://google.com/search?q=www.copleystoughton.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-19 | [`www.macmed.com`](https://google.com/search?q=www.macmed.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-19 | [`Supreme Administrative Court of Bulgaria`](https://google.com/search?q=Supreme+Administrative+Court+of+Bulgaria) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
