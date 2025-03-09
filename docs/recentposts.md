@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-09 | [`Buckley BalaWilson Mew`](https://google.com/search?q=Buckley+BalaWilson+Mew) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-09 | [`Insider Technologies Limited`](https://google.com/search?q=Insider+Technologies+Limited) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-03-09 | [`British virgin islands London Office`](https://google.com/search?q=British+virgin+islands+London+Office) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-03-09 | [`The 19 biggest gitlabs`](https://google.com/search?q=The+19+biggest+gitlabs) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-21 | [`eaglepost.com`](https://google.com/search?q=eaglepost.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-20 | [`gilcar.co`](https://google.com/search?q=gilcar.co) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-20 | [`www.okddsi.net`](https://google.com/search?q=www.okddsi.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-20 | [`newhorizonsbaking.com\$163M\USA\455GB\&lt;1% DISCLOSED`](https://google.com/search?q=newhorizonsbaking.com%5C%24163M%5CUSA%5C455GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
