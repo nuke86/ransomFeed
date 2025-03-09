@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-09 | [`Holiday Comfort`](https://google.com/search?q=Holiday+Comfort) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-09 | [`Gevril`](https://google.com/search?q=Gevril) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-09 | [`Dectron`](https://google.com/search?q=Dectron) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-09 | [`Compound Solutions`](https://google.com/search?q=Compound+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-21 | [`www.saracenproperties.com`](https://google.com/search?q=www.saracenproperties.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-21 | [`Medical File`](https://google.com/search?q=Medical+File) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-21 | [`lekiaviation.com`](https://google.com/search?q=lekiaviation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-21 | [`bisindustries.com`](https://google.com/search?q=bisindustries.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
