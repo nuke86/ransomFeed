@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-09 | [`WJCC Public Schools (wjccschools.org)`](https://google.com/search?q=WJCC+Public+Schools+%28wjccschools.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-09 | [`LINKGROUP`](https://google.com/search?q=LINKGROUP) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-08 | [`www.dcarosolutions.com`](https://google.com/search?q=www.dcarosolutions.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-08 | [`mitchellmcnutt.com`](https://google.com/search?q=mitchellmcnutt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-20 | [`californiaclingpeaches.com`](https://google.com/search?q=californiaclingpeaches.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-02-20 | [`www.phdental.com`](https://google.com/search?q=www.phdental.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-20 | [`www.riverdale.edu`](https://google.com/search?q=www.riverdale.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-20 | [`www.mwmechanicalinc.com`](https://google.com/search?q=www.mwmechanicalinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
