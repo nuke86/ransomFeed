@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-10 | [`Syma-System`](https://google.com/search?q=Syma-System) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-10 | [`Peak Season`](https://google.com/search?q=Peak+Season) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-10 | [`Nor Arc`](https://google.com/search?q=Nor+Arc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-10 | [`Jerue Companies`](https://google.com/search?q=Jerue+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-21 | [`headcount.com`](https://google.com/search?q=headcount.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-21 | [`jindalgroup.com`](https://google.com/search?q=jindalgroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-21 | [`statesideseattle.com`](https://google.com/search?q=statesideseattle.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-02-21 | [`www.fla-esq.com`](https://google.com/search?q=www.fla-esq.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
