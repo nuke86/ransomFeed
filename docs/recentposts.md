@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-10 | [`formanmills.com\$422.2M\USA\846GB\100% DISCLOSED`](https://google.com/search?q=formanmills.com%5C%24422.2M%5CUSA%5C846GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-10 | [`amalgamatedsugar.com\$764.8 M\USA\464GB\100% DISCLOSED`](https://google.com/search?q=amalgamatedsugar.com%5C%24764.8+M%5CUSA%5C464GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-10 | [`caltrol.com\$296.3M\USA\224GB\100% DISCLOSED`](https://google.com/search?q=caltrol.com%5C%24296.3M%5CUSA%5C224GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-10 | [`[DISCLOSED]Nationz Technologies Inc.`](https://google.com/search?q=%5BDISCLOSED%5DNationz+Technologies+Inc.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-22 | [`guadeloupeformation.com`](https://google.com/search?q=guadeloupeformation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-22 | [`www.electro-fusion.com`](https://google.com/search?q=www.electro-fusion.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-22 | [`teamsters175.org`](https://google.com/search?q=teamsters175.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-02-22 | [`www.midwestvascular.net`](https://google.com/search?q=www.midwestvascular.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
