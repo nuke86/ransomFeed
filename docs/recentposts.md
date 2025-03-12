@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-12 | [`TUV India Pvt. Ltd.`](https://google.com/search?q=TUV+India+Pvt.+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-03-12 | [`www.visualisation.one`](https://google.com/search?q=www.visualisation.one) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-12 | [`tempel.com\$628.7M\USA\111GB\&lt;1% DISCLOSED`](https://google.com/search?q=tempel.com%5C%24628.7M%5CUSA%5C111GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-12 | [`baillie.com\$130.5M\USA\52GB\&lt;1% DISCLOSED`](https://google.com/search?q=baillie.com%5C%24130.5M%5CUSA%5C52GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-24 | [`stanleyconsultants.com\$190.5M\USA\388GB\&lt;1% DISCLOSED`](https://google.com/search?q=stanleyconsultants.com%5C%24190.5M%5CUSA%5C388GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-24 | [`Gpstech2007.com`](https://google.com/search?q=Gpstech2007.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-24 | [`Mervis.info`](https://google.com/search?q=Mervis.info) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-02-24 | [`Realtime.tw`](https://google.com/search?q=Realtime.tw) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
