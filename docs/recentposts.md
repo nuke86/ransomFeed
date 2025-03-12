@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-12 | [`rocketstores.com\$738.9M\USA\3.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=rocketstores.com%5C%24738.9M%5CUSA%5C3.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-12 | [`urban1.com\$460.3M\USA\2.5TB\&lt;1% DISCLOSED`](https://google.com/search?q=urban1.com%5C%24460.3M%5CUSA%5C2.5TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-12 | [`Trymata`](https://google.com/search?q=Trymata) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-12 | [`www.hexosys.com`](https://google.com/search?q=www.hexosys.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-24 | [`Shaghalni`](https://google.com/search?q=Shaghalni) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`BluAgent Technologies, Inc`](https://google.com/search?q=BluAgent+Technologies%2C+Inc) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`www.cityoftarrant.com`](https://google.com/search?q=www.cityoftarrant.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-23 | [`www.famcomachine.com`](https://google.com/search?q=www.famcomachine.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
