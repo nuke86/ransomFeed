@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-14 | [`Bancroft Wines`](https://google.com/search?q=Bancroft+Wines) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-14 | [`Harrells.com`](https://google.com/search?q=Harrells.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-14 | [`mdm-insurance.com`](https://google.com/search?q=mdm-insurance.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-03-14 | [`rixos.com`](https://google.com/search?q=rixos.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-26 | [`First Federal Savings & Loan`](https://google.com/search?q=First+Federal+Savings+%26+Loan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-26 | [`Fairhaven Shipyard Companies`](https://google.com/search?q=Fairhaven+Shipyard+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-25 | [`Convert Solar`](https://google.com/search?q=Convert+Solar) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-25 | [`ALCOTT HR GROUP`](https://google.com/search?q=ALCOTT+HR+GROUP) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
