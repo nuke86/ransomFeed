@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-15 | [`SIRIUS S.R.L.`](https://google.com/search?q=SIRIUS+S.R.L.) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-03-15 | [`Casale Del Giglio`](https://google.com/search?q=Casale+Del+Giglio) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
 | 2025-03-15 | [`Engineering Mechanics`](https://google.com/search?q=Engineering+Mechanics) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-15 | [`Springfield Water and Sewer Commission`](https://google.com/search?q=Springfield+Water+and+Sewer+Commission) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-27 | [`Story Environmental`](https://google.com/search?q=Story+Environmental) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-27 | [`Muller Insurance`](https://google.com/search?q=Muller+Insurance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-27 | [`Finck Cigar`](https://google.com/search?q=Finck+Cigar) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-26 | [`3cBSI`](https://google.com/search?q=3cBSI) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
