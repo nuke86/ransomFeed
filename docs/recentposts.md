@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-15 | [`Seabank Group`](https://google.com/search?q=Seabank+Group) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-15 | [`fstlogistics.com`](https://google.com/search?q=fstlogistics.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-15 | [`yeanshalle.de`](https://google.com/search?q=yeanshalle.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-14 | [`Fulcrum Lifting`](https://google.com/search?q=Fulcrum+Lifting) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-26 | [`holtcat.com\$1B\USA\868GB\&lt;1% DISCLOSED`](https://google.com/search?q=holtcat.com%5C%241B%5CUSA%5C868GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-26 | [`alphabaking.com\$421.9M\USA\1TB\&lt;1% DISCLOSED`](https://google.com/search?q=alphabaking.com%5C%24421.9M%5CUSA%5C1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-26 | [`www.confabca.com`](https://google.com/search?q=www.confabca.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-26 | [`www.bwdtechnology.com`](https://google.com/search?q=www.bwdtechnology.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
