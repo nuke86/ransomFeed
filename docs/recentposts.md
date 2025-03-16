@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-16 | [`Ligentia`](https://google.com/search?q=Ligentia) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-03-16 | [`CESI`](https://google.com/search?q=CESI) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-03-16 | [`Genea`](https://google.com/search?q=Genea) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-03-15 | [`Arcandco`](https://google.com/search?q=Arcandco) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-27 | [`www.nasonptc.com`](https://google.com/search?q=www.nasonptc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-27 | [`Vermeer Mexico`](https://google.com/search?q=Vermeer+Mexico) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-27 | [`Omni United`](https://google.com/search?q=Omni+United) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-02-27 | [`jtu.com.br`](https://google.com/search?q=jtu.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
