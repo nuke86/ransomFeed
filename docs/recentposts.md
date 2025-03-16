@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-16 | [`Genea`](https://google.com/search?q=Genea) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-03-15 | [`Arcandco`](https://google.com/search?q=Arcandco) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-03-15 | [`Rooks Rider Solicitors`](https://google.com/search?q=Rooks+Rider+Solicitors) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-03-15 | [`Perrigo Company`](https://google.com/search?q=Perrigo+Company) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-27 | [`Omni United`](https://google.com/search?q=Omni+United) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-27 | [`jtu.com.br`](https://google.com/search?q=jtu.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-27 | [`Nichino Ryokka Co Ltd`](https://google.com/search?q=Nichino+Ryokka+Co+Ltd) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-02-27 | [`Kendall Auto Group`](https://google.com/search?q=Kendall+Auto+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
