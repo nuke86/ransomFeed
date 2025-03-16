@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-16 | [`boostheat.com`](https://google.com/search?q=boostheat.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-03-16 | [`Dane Court Grammar School`](https://google.com/search?q=Dane+Court+Grammar+School) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-03-16 | [`www.ameda.com`](https://google.com/search?q=www.ameda.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-16 | [`Toi Toi USA`](https://google.com/search?q=Toi+Toi+USA) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-28 | [`www.amerasphalt.com`](https://google.com/search?q=www.amerasphalt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-28 | [`www.emeryair.net`](https://google.com/search?q=www.emeryair.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-28 | [`www.newburghhealthcarecenter.com`](https://google.com/search?q=www.newburghhealthcarecenter.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-28 | [`www.envirolabsinc.com`](https://google.com/search?q=www.envirolabsinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
