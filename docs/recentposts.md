@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-18 | [`51talk.com`](https://google.com/search?q=51talk.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-03-18 | [`gaertnerhof-jeutter.de`](https://google.com/search?q=gaertnerhof-jeutter.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-18 | [`expertdata.com.au`](https://google.com/search?q=expertdata.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-18 | [`airtelligence.com`](https://google.com/search?q=airtelligence.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-02 | [`germancentre.sg`](https://google.com/search?q=germancentre.sg) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-01 | [`breakawayconcretecutting.com`](https://google.com/search?q=breakawayconcretecutting.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-01 | [`www.casinoessentials.com`](https://google.com/search?q=www.casinoessentials.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-01 | [`curtisint.com\$37.2M\Canada\676GB\100% DISCLOSED`](https://google.com/search?q=curtisint.com%5C%2437.2M%5CCanada%5C676GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
