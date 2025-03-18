@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-18 | [`CableVision`](https://google.com/search?q=CableVision) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-03-17 | [`bluedge.com\$104.5M\USA\994GB\100% DISCLOSED`](https://google.com/search?q=bluedge.com%5C%24104.5M%5CUSA%5C994GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-17 | [`urban1.com\$460.3M\USA\2.5TB\100% DISCLOSED`](https://google.com/search?q=urban1.com%5C%24460.3M%5CUSA%5C2.5TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-17 | [`rocketstores.com\$738.9M\USA\3.2TB\100% DISCLOSED`](https://google.com/search?q=rocketstores.com%5C%24738.9M%5CUSA%5C3.2TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-01 | [`associatedasset.com\$288M\USA\26GB\&lt;1% DISCLOSED`](https://google.com/search?q=associatedasset.com%5C%24288M%5CUSA%5C26GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-01 | [`grede.com\$814.7M\USA\524gb\&lt;1% DISCLOSED`](https://google.com/search?q=grede.com%5C%24814.7M%5CUSA%5C524gb%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-01 | [`branchgroup.com\$333M\USA\253GB\&lt;1% DISCLOSED`](https://google.com/search?q=branchgroup.com%5C%24333M%5CUSA%5C253GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-03-01 | [`pace-usa.com\$134.4M\USA\65gb\&lt;1% DISCLOSED`](https://google.com/search?q=pace-usa.com%5C%24134.4M%5CUSA%5C65gb%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
