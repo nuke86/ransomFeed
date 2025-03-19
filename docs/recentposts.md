@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-19 | [`RAE (Real Academia Española) (rae.es)`](https://google.com/search?q=RAE+%28Real+Academia+Espa%C3%B1ola%29+%28rae.es%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-19 | [`controlledair.com`](https://google.com/search?q=controlledair.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-19 | [`Q railing`](https://google.com/search?q=Q+railing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-19 | [`Coopertruni`](https://google.com/search?q=Coopertruni) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-03 | [`International Process Plants`](https://google.com/search?q=International+Process+Plants) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-03 | [`IT-IQ Botswana`](https://google.com/search?q=IT-IQ+Botswana) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-02 | [`Ganong Bros`](https://google.com/search?q=Ganong+Bros) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-03-02 | [`Couri Insurance Agency`](https://google.com/search?q=Couri+Insurance+Agency) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
