@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-20 | [`AMICIO`](https://google.com/search?q=AMICIO) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-20 | [`Ranhill Bersekutu`](https://google.com/search?q=Ranhill+Bersekutu) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-19 | [`Palomino Petroleum`](https://google.com/search?q=Palomino+Petroleum) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-19 | [`RAE (Real Academia Española) (rae.es)`](https://google.com/search?q=RAE+%28Real+Academia+Espa%C3%B1ola%29+%28rae.es%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-03 | [`Optometrics`](https://google.com/search?q=Optometrics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-03 | [`North American Fire Hose`](https://google.com/search?q=North+American+Fire+Hose) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-03 | [`M&n Management`](https://google.com/search?q=M%26n+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-03-03 | [`International Process Plants`](https://google.com/search?q=International+Process+Plants) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
