@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-21 | [`Whittaker &amp; Company`](https://google.com/search?q=Whittaker+%26amp%3B+Company) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-03-21 | [`https://www.orangeville.ca`](https://google.com/search?q=https%3A%2F%2Fwww.orangeville.ca) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2025-03-21 | [`Obra Play`](https://google.com/search?q=Obra+Play) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-21 | [`yano.tokyo`](https://google.com/search?q=yano.tokyo) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-04 | [`steelerubber.com\$17.9M\USA\116GB\100% DISCLOSED`](https://google.com/search?q=steelerubber.com%5C%2417.9M%5CUSA%5C116GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-04 | [`almostfamousclothing.com\$183M\USA\375GB\100% DISCLOSED`](https://google.com/search?q=almostfamousclothing.com%5C%24183M%5CUSA%5C375GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-04 | [`ssmcoop.com\$22.5M\USA\26GB\100% DISCLOSED`](https://google.com/search?q=ssmcoop.com%5C%2422.5M%5CUSA%5C26GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-03-04 | [`uniekinc.com\$37.5M\USA\1.8TB\100% DISCLOSED`](https://google.com/search?q=uniekinc.com%5C%2437.5M%5CUSA%5C1.8TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
