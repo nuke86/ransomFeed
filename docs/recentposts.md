@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-21 | [`www.oneupinnovations.com`](https://google.com/search?q=www.oneupinnovations.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-21 | [`Cayman National Bank`](https://google.com/search?q=Cayman+National+Bank) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-21 | [`universalser`](https://google.com/search?q=universalser) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-03-21 | [`Newtown Friends School (newtownfriends.org)`](https://google.com/search?q=Newtown+Friends+School+%28newtownfriends.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-04 | [`Layfield and Borel CPA's L.L.C`](https://google.com/search?q=Layfield+and+Borel+CPA%27s+L.L.C) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-04 | [`Brien, Inc.`](https://google.com/search?q=Brien%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-04 | [`Garner, P.C.`](https://google.com/search?q=Garner%2C+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-03-04 | [`Legal Aid Society of Salt Lake`](https://google.com/search?q=Legal+Aid+Society+of+Salt+Lake) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
