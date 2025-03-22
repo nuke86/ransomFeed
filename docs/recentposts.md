@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-22 | [`Zaveta Custom Homes`](https://google.com/search?q=Zaveta+Custom+Homes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-22 | [`Goshen Medical Center`](https://google.com/search?q=Goshen+Medical+Center) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-22 | [`REOC San Antonio`](https://google.com/search?q=REOC+San+Antonio) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-22 | [`www.elizajennings.org`](https://google.com/search?q=www.elizajennings.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-05 | [`www.japanrebuilt.jp`](https://google.com/search?q=www.japanrebuilt.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-05 | [`escada.com`](https://google.com/search?q=escada.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-05 | [`www.black-star.fr`](https://google.com/search?q=www.black-star.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-05 | [`familychc.com`](https://google.com/search?q=familychc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
