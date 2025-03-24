@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-24 | [`Lupin Limited`](https://google.com/search?q=Lupin+Limited) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-24 | [`Geokon`](https://google.com/search?q=Geokon) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-23 | [`Doumen`](https://google.com/search?q=Doumen) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-23 | [`Innovative Surfaces`](https://google.com/search?q=Innovative+Surfaces) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-06 | [`hickorylaw.com`](https://google.com/search?q=hickorylaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-06 | [`lovesac.com`](https://google.com/search?q=lovesac.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-06 | [`Naples Heritage Golf & Country Club`](https://google.com/search?q=Naples+Heritage+Golf+%26+Country+Club) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-03-06 | [`agi.net`](https://google.com/search?q=agi.net) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
