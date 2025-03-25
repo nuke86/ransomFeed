@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-25 | [`ossc.com.mx`](https://google.com/search?q=ossc.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-03-25 | [`fepasa.com.ar`](https://google.com/search?q=fepasa.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-03-25 | [`bioclimaservice.it`](https://google.com/search?q=bioclimaservice.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-03-25 | [`www.rivaldt.com`](https://google.com/search?q=www.rivaldt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-08 | [`Minnesota Orthodontics`](https://google.com/search?q=Minnesota+Orthodontics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-07 | [`REYCOTEL`](https://google.com/search?q=REYCOTEL) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-07 | [`total-ps.com`](https://google.com/search?q=total-ps.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-07 | [`wheats.com`](https://google.com/search?q=wheats.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
