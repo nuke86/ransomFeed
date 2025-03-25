@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-25 | [`cisd.org`](https://google.com/search?q=cisd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-25 | [`mnm.hu`](https://google.com/search?q=mnm.hu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-25 | [`texascompressionservices.com`](https://google.com/search?q=texascompressionservices.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-24 | [`allbiz.com`](https://google.com/search?q=allbiz.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-07 | [`grede.com\$814.7M\USA\524GB\100% DISCLOSED`](https://google.com/search?q=grede.com%5C%24814.7M%5CUSA%5C524GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-07 | [`alphabaking.com\$421.9M\USA\1TB\100% DISCLOSED`](https://google.com/search?q=alphabaking.com%5C%24421.9M%5CUSA%5C1TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-07 | [`www.portlandschools.org`](https://google.com/search?q=www.portlandschools.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-07 | [`www.hinton.ca`](https://google.com/search?q=www.hinton.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
