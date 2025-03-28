@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-28 | [`amatechinc.com`](https://google.com/search?q=amatechinc.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-28 | [`Direct Traffic Control`](https://google.com/search?q=Direct+Traffic+Control) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-28 | [`W*******w.com`](https://google.com/search?q=W%2A%2A%2A%2A%2A%2A%2Aw.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-03-28 | [`www.solventacentroamerica.com`](https://google.com/search?q=www.solventacentroamerica.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-10 | [`The Loretto Hospital`](https://google.com/search?q=The+Loretto+Hospital) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-03-10 | [`Yorke & Curtis`](https://google.com/search?q=Yorke+%26+Curtis) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-10 | [`T J Machine & Tool`](https://google.com/search?q=T+J+Machine+%26+Tool) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-03-10 | [`Syma-System`](https://google.com/search?q=Syma-System) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
