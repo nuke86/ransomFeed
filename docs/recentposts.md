@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-28 | [`www.solventacentroamerica.com`](https://google.com/search?q=www.solventacentroamerica.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-27 | [`www.allmilmoe.com`](https://google.com/search?q=www.allmilmoe.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-27 | [`www.solidworld.it`](https://google.com/search?q=www.solidworld.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-27 | [`brattenelectrictn.com`](https://google.com/search?q=brattenelectrictn.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-10 | [`Syma-System`](https://google.com/search?q=Syma-System) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-10 | [`Peak Season`](https://google.com/search?q=Peak+Season) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-10 | [`Nor Arc`](https://google.com/search?q=Nor+Arc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-03-10 | [`Jerue Companies`](https://google.com/search?q=Jerue+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
