@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-25 | [`Kenworth Del Sur`](https://google.com/search?q=Kenworth+Del+Sur) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-25 | [`Kasb Bank - K-Trade`](https://google.com/search?q=Kasb+Bank+-+K-Trade) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-25 | [`M&#39;AR De AR Hotels`](https://google.com/search?q=M%26%2339%3BAR+De+AR+Hotels) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-04-25 | [`dpkv.c`](https://google.com/search?q=dpkv.c) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-26 | [`www.fkm-elemente.de`](https://google.com/search?q=www.fkm-elemente.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-26 | [`www.mododoc.com`](https://google.com/search?q=www.mododoc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-26 | [`www.argentosc.com`](https://google.com/search?q=www.argentosc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-26 | [`www.ripplejunction.com`](https://google.com/search?q=www.ripplejunction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
