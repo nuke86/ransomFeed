@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-01 | [`StudioVaiani`](https://google.com/search?q=StudioVaiani) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-01 | [`The Saint James Hospital Group`](https://google.com/search?q=The+Saint+James+Hospital+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-01 | [`WDEF-TV`](https://google.com/search?q=WDEF-TV) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-01 | [`pcs`](https://google.com/search?q=pcs) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-31 | [` SIRIUS S.R.L.`](https://google.com/search?q=+SIRIUS+S.R.L.) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-03-31 | [`AKTO`](https://google.com/search?q=AKTO) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-03-30 | [`www.assisi.nl`](https://google.com/search?q=www.assisi.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-29 | [`importantsteps.com`](https://google.com/search?q=importantsteps.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
