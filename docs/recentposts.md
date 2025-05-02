@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-02 | [`runtec.co.jp`](https://google.com/search?q=runtec.co.jp) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-02 | [`[DISCLOSED]Imedexsa`](https://google.com/search?q=%5BDISCLOSED%5DImedexsa) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-05-02 | [`Government of Peru`](https://google.com/search?q=Government+of+Peru) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-02 | [`wor`](https://google.com/search?q=wor) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-02 | [`The Hoff Brand SL Data Leak`](https://google.com/search?q=The+Hoff+Brand+SL+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-04-01 | [`The Loretto Hospital`](https://google.com/search?q=The+Loretto+Hospital) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-01 | [`State&#39;s Attorney Office`](https://google.com/search?q=State%26%2339%3Bs+Attorney+Office) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-04-01 | [`europtec.com`](https://google.com/search?q=europtec.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
