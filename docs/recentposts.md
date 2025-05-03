@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-03 | [`ddecor.com`](https://google.com/search?q=ddecor.com) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-05-03 | [`Kalin Hobeltechnik`](https://google.com/search?q=Kalin+Hobeltechnik) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-03 | [`American Eagle Logistics - Press Release`](https://google.com/search?q=American+Eagle+Logistics+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-05-02 | [`derichsukonertz.de`](https://google.com/search?q=derichsukonertz.de) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-02 | [`red`](https://google.com/search?q=red) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-02 | [`A little gift of exclusive data for everyone`](https://google.com/search?q=A+little+gift+of+exclusive+data+for+everyone) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2025-04-02 | [`Clarity Ventures`](https://google.com/search?q=Clarity+Ventures) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-04-02 | [`crownlaboratories.com`](https://google.com/search?q=crownlaboratories.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
