@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-12 | [`EIZO Rugged Solutions`](https://google.com/search?q=EIZO+Rugged+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-12 | [`www.philsmithauto.com`](https://google.com/search?q=www.philsmithauto.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-12 | [`atlplasticsurgeon.com`](https://google.com/search?q=atlplasticsurgeon.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-12 | [`jtalleycorp.com`](https://google.com/search?q=jtalleycorp.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-12 | [`bilbie.com.au`](https://google.com/search?q=bilbie.com.au) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-12 | [`On IT`](https://google.com/search?q=On+IT) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-04-12 | [`Bjørklund`](https://google.com/search?q=Bj%C3%B8rklund) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2025-04-11 | [`Restaurant Associates`](https://google.com/search?q=Restaurant+Associates) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
