@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-30 | [`UnigazJordan`](https://google.com/search?q=UnigazJordan) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-05-30 | [`M&amp;H Electric Fabricators`](https://google.com/search?q=M%26amp%3BH+Electric+Fabricators) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-05-30 | [`Jordan Drug`](https://google.com/search?q=Jordan+Drug) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-29 | [`http://www.innsofaurora.com`](https://google.com/search?q=http%3A%2F%2Fwww.innsofaurora.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-25 | [`M&#39;AR De AR Hotels`](https://google.com/search?q=M%26%2339%3BAR+De+AR+Hotels) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-04-25 | [`dpkv.c`](https://google.com/search?q=dpkv.c) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-25 | [`buildingmaterialspecialties.com`](https://google.com/search?q=buildingmaterialspecialties.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-04-25 | [`greatplainstransport.com`](https://google.com/search?q=greatplainstransport.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
