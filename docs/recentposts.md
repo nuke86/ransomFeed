@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-14 | [`Israel&#8217;s fuel supply system Hacked`](https://google.com/search?q=Israel%26%238217%3Bs+fuel+supply+system+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-14 | [`Aerodreams Hacked`](https://google.com/search?q=Aerodreams+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-13 | [`Ajmanre.gov.ae`](https://google.com/search?q=Ajmanre.gov.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-06-12 | [`alleray-labrouste`](https://google.com/search?q=alleray-labrouste) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-02 | [`Southern Fidelity`](https://google.com/search?q=Southern+Fidelity) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-02 | [`ECOM America`](https://google.com/search?q=ECOM+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-02 | [`pdcm.com`](https://google.com/search?q=pdcm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-05-02 | [`kll-law.com`](https://google.com/search?q=kll-law.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
