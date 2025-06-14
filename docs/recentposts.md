@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-14 | [`NPD Products`](https://google.com/search?q=NPD+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-14 | [`099 ISP Hacked`](https://google.com/search?q=099+ISP+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-14 | [`Y.G. New Idan Hacked`](https://google.com/search?q=Y.G.+New+Idan+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-14 | [`Israel’s fuel supply system Hacked`](https://google.com/search?q=Israel%E2%80%99s+fuel+supply+system+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-02 | [`[DISCLOSED]Imedexsa`](https://google.com/search?q=%5BDISCLOSED%5DImedexsa) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-05-02 | [`Government of Peru`](https://google.com/search?q=Government+of+Peru) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-02 | [`wor`](https://google.com/search?q=wor) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-05-02 | [`The Seydel Companies`](https://google.com/search?q=The+Seydel+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
