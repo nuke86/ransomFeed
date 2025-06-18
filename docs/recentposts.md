@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-18 | [`Agura B.C LTD Hacked`](https://google.com/search?q=Agura+B.C+LTD+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-18 | [`Weizmann Institute of Science Hacked`](https://google.com/search?q=Weizmann+Institute+of+Science+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-18 | [`West Texas Oral and Facial Surgery`](https://google.com/search?q=West+Texas+Oral+and+Facial+Surgery) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-17 | [`Evans Pharmacy`](https://google.com/search?q=Evans+Pharmacy) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-05 | [`Breen Construction Services`](https://google.com/search?q=Breen+Construction+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-05 | [`Alberta Construction Safety Association`](https://google.com/search?q=Alberta+Construction+Safety+Association) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-05 | [`ATI Systems`](https://google.com/search?q=ATI+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-05 | [`GPF Lewis`](https://google.com/search?q=GPF+Lewis) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
