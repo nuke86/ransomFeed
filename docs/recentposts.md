@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-19 | [`AFECC - Hospital Santa Rita de Cássia`](https://google.com/search?q=AFECC+-+Hospital+Santa+Rita+de+C%C3%A1ssia) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-18 | [`New Jersey Association on Correction`](https://google.com/search?q=New+Jersey+Association+on+Correction) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-18 | [`Mor-logistics Hacked`](https://google.com/search?q=Mor-logistics+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-18 | [`Coreix`](https://google.com/search?q=Coreix) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-06 | [`Rand Technology`](https://google.com/search?q=Rand+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-06 | [`Novosit`](https://google.com/search?q=Novosit) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-06 | [`Marine Technical Surveyors`](https://google.com/search?q=Marine+Technical+Surveyors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-06 | [`Downtown Travel`](https://google.com/search?q=Downtown+Travel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
