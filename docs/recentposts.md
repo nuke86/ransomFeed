@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-19 | [`Haor Heavy Transport Hacked`](https://google.com/search?q=Haor+Heavy+Transport+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-19 | [`Vacation Myrtle Beach`](https://google.com/search?q=Vacation+Myrtle+Beach) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-19 | [`Place Homes`](https://google.com/search?q=Place+Homes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-19 | [`https://www.ilesfuneralhomes.com/`](https://google.com/search?q=https%3A%2F%2Fwww.ilesfuneralhomes.com%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-06 | [`Webcor`](https://google.com/search?q=Webcor) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-06 | [`Commune de Jemeppe-sur-Sambre`](https://google.com/search?q=Commune+de+Jemeppe-sur-Sambre) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-05-06 | [`Trybus`](https://google.com/search?q=Trybus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-06 | [`Technical Die-Casting`](https://google.com/search?q=Technical+Die-Casting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
